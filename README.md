@@ -48,6 +48,7 @@
   <img src="https://imgs.search.brave.com/J78SddzCw-GkyOCwPFsWcViIqcMRofGFY06Uguf0pXA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aW1wZXJ2YS5jb20v/bGVhcm4vd3AtY29u/dGVudC91cGxvYWRz/L3NpdGVzLzEzLzIw/MjIvMDQvU2NyZWVu/LVNob3QtMjAyMi0w/NC0wMy1hdC0xNC40/MS4wOS5wbmcud2Vi/cA" alt="Metasploit" width="100" height="100"/>
   <img src="https://www.torproject.org/static/images/tor-logo@2x.png?h=16ad42bc" alt="Tor" width="100" height="100"/>
   <img src="https://imgs.search.brave.com/hifbNMxUjaaFnji3Woe33KTkf2_s0omppz8PWPuRBRM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvZGFy/ay13ZWItcGljdHVy/ZXMtMGpjeG02OGJr/Nmh1a3p6MS5qcGc" alt="Dark Web" width="100" height="100"/>
+    <img src="https://imgs.search.brave.com/9eVSW_KZhNwcQHlJF02dQAdT-1FfAdB99TLUPygHwCs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/LjFwYXNzd29yZC5j/b20vcG9zdHMvMjAx/Mi8xcGFzc3dvcmQt/aXMtcmVhZHktZm9y/LWpvaG4tdGhlLXJp/cHBlci9qb2hudGhl/cmlwcGVyLnBuZw" alt="John the Ripper" width="100" height="100"/>
 </p>
 
 ---
