@@ -45,7 +45,7 @@
   <img src="https://www.vaadata.com/blog/wp-content/uploads/2024/05/exploiting-sqli-with-sqlmap.png" alt="SQLmap" width="100" height="100"/>
   <img src="https://imgs.search.brave.com/-ZQa5howjdSTXSU9djqbIJLl1a-RpE7k9P93LukiC1o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0Q0/RDEyQVFHTnRsaXEt/c0xwOUEvYXJ0aWNs/ZS1jb3Zlcl9pbWFn/ZS1zaHJpbmtfNjAw/XzIwMDAvMC8xNzAy/NTMzNTM5NjM2P2U9/MjE0NzQ4MzY0NyZ2/PWJldGEmdD1oQjg5/Q0Y2U0ZhLVJuZXRr/dGtlNnZvY2J3THRt/QUQ3YlVUWmI1RS1V/Skw0" alt="Hydra" width="100" height="100"/>
   <img src="https://nmap.org/images/sitelogo-2x.png" alt="nmap" width="100" height="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/MSFvenom_Logo.svg/200px-MSFvenom_Logo.svg.png" alt="MSFvenom" width="100" height="100"/>
+  <img src="https://imgs.search.brave.com/J78SddzCw-GkyOCwPFsWcViIqcMRofGFY06Uguf0pXA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aW1wZXJ2YS5jb20v/bGVhcm4vd3AtY29u/dGVudC91cGxvYWRz/L3NpdGVzLzEzLzIw/MjIvMDQvU2NyZWVu/LVNob3QtMjAyMi0w/NC0wMy1hdC0xNC40/MS4wOS5wbmcud2Vi/cA" alt="Metasploit" width="100" height="100"/>
   <img src="https://www.torproject.org/static/images/tor-logo@2x.png?h=16ad42bc" alt="Tor" width="100" height="100"/>
   <img src="https://imgs.search.brave.com/hifbNMxUjaaFnji3Woe33KTkf2_s0omppz8PWPuRBRM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvZGFy/ay13ZWItcGljdHVy/ZXMtMGpjeG02OGJr/Nmh1a3p6MS5qcGc" alt="Dark Web" width="100" height="100"/>
 </p>
