@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sujalsixnine" target="blank"><img align="center" src="https://imgs.search.brave.com/uw3YUzvnawB9LC83FuI_GyJHbvNWb58VU7Hm6NB6TSU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNi8w/NS8wMS8yMy8yMC90/d2l0dGVyLWJpcmQt/MTM2NjIxOF82NDAu/cG5n" alt="sujalsixnine" height="30" width="40" /></a>
+<a href="https://twitter.com/sujalsixnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujalsixnine" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sujallamichhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujallamichhane" height="30" width="40" /></a>
 <a href="https://fb.com/sujallamichhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sujallamichhane" height="30" width="40" /></a>
 <a href="https://instagram.com/sujallamichhane_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujallamichhane_" height="30" width="40" /></a>
