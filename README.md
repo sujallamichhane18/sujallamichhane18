@@ -40,7 +40,7 @@
 
 ---
 
-<h3 align="left">Kali Linux Tools:</h3>
+<h3 align="left">Tools I have used most:</h3>
 <p align="center">
   <img src="https://www.vaadata.com/blog/wp-content/uploads/2024/05/exploiting-sqli-with-sqlmap.png" alt="SQLmap" width="100" height="100"/>
   <img src="https://imgs.search.brave.com/-ZQa5howjdSTXSU9djqbIJLl1a-RpE7k9P93LukiC1o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0Q0/RDEyQVFHTnRsaXEt/c0xwOUEvYXJ0aWNs/ZS1jb3Zlcl9pbWFn/ZS1zaHJpbmtfNjAw/XzIwMDAvMC8xNzAy/NTMzNTM5NjM2P2U9/MjE0NzQ4MzY0NyZ2/PWJldGEmdD1oQjg5/Q0Y2U0ZhLVJuZXRr/dGtlNnZvY2J3THRt/QUQ3YlVUWmI1RS1V/Skw0" alt="Hydra" width="100" height="100"/>
