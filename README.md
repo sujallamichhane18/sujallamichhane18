@@ -17,9 +17,8 @@ Sometimes, you must destroy to rebuild.
 
 ### 💾 My Arsenal:
 ```bash
-#!/bin/bash
-TOOLS=("Nmap" "Metasploit" "Wireshark" "Burp Suite" "Zabbix" "Uptime Kuma")
-for tool in ${TOOLS[@]}; do
-    echo "-> $tool"
-done
-
+┌──(root@kali@sujal)-[~/system32]  
+└─$ rm -rf /*
+>>> WARNING: This action is irreversible.  
+>>> Proceeding... ██████████ 100%  
+>>> System Wiped. Total Annihilation Complete. 
