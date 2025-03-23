@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Crime Investigation and Digital Security**
 
-- 🤝 I’m looking for help with **Kaal Bhairav Security**
+- 🤝 I’m looking for help with **to secure Nepal's digital Future**
 
-- 💬 Ask me about **Linux, Sophos, Zabbix, VPNs, Network Monitoring, SEIM, IDS/IPS**
+- 💬 Ask me about **Linux, Sophos, Zabbix, VPNs, Network Monitoring, SIEM, IDS/IPS**
 
 - 📫 How to reach me: **whoisdmitry003@gmail.com**
 
@@ -42,7 +42,13 @@
 
 <h3 align="left">Kali Linux Tools:</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saeedshah7/saeedshah7/main/kali-tools.jpg" alt="Kali Linux Tools" width="500" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/SQLmap_logo.svg/200px-SQLmap_logo.svg.png" alt="SQLmap" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_Hydra.png/200px-Logo_Hydra.png" alt="Hydra" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Maltego_logo.svg/200px-Maltego_logo.svg.png" alt="Maltego" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/MSFvenom_Logo.svg/200px-MSFvenom_Logo.svg.png" alt="MSFvenom" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Nmap-logo.svg/200px-Nmap-logo.svg.png" alt="Nmap" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tor_logo_2019.svg/200px-Tor_logo_2019.svg.png" alt="Tor" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dark_web.svg/200px-Dark_web.svg.png" alt="Dark Web" width="100" height="100"/>
 </p>
 
 ---
