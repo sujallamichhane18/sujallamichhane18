@@ -54,7 +54,7 @@
 
 ---
 
-<h3 align="left">Kali Linux Vibes:</h3>
+<h3 align="left">What i am doing right now :</h3>
 <p align="center">
   <img src="https://imgs.search.brave.com/ZGENbOO2MTU8Wcey1JdSlvnMfRnXK4kqaupuyU9YUX4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvZ2xpdGNo/aW5nLWhhY2tlci1o/YWNraW5nLXY1Nmc0/bDF2YXlrbXNubzYu/Z2lm.gif" alt="Kali Linux Gif" width="500"/>
 </p>
