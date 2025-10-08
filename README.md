@@ -44,7 +44,7 @@ We are dedicated to:
 - Conducting deep security research and digital forensics  
 - Building tools and systems that **detect, prevent, and respond** to modern cyberattacks  
 
-💀 *Inspired by Kaal Bhairav — the divine guardian — we stand as protectors of the digital world.*
+*Inspired by Kaal Bhairav — the divine guardian — we stand as protectors of the digital world.*
 
 ---
 
