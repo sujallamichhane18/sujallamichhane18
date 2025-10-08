@@ -1,68 +1,99 @@
-# 👋 Hi, I'm Sujal Lamichhane
+<h1 align="center">👋 Hi, I'm <a href="https://sujallamichhane.com.np/">Sujal Lamichhane</a></h1>
+<h3 align="center">🛡️ Certified Ethical Hacker (CEH v13) | Cybersecurity Specialist | Malware Hunter | Security Researcher</h3>
 
-### 🛡️ Certified Ethical Hacker (CEH v13) | Cybersecurity Specialist | Threat Intelligence Analyst
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sujallamichhane18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujallamichhane18&theme=darkhub&margin-w=10&margin-h=10&row=1" alt="GitHub Trophies" /></a>
+</p>
 
-🔗 [sujallamichhane.com.np](https://sujallamichhane.com.np/)  
-📍 Chitwan District, Nepal  
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Cybersecurity Professional** who is **constantly exploring to protect digital space**.  
-With expertise in **ethical hacking, threat intelligence, and digital forensics**, I specialize in identifying vulnerabilities, mitigating risks, and strengthening system defenses.
-
-My work revolves around **threat analysis, malware investigation, incident response**, and **developing resilient cyber defense strategies** using open-source tools and automation.
+<p align="center">
+  <a href="https://twitter.com/sujalsixnine" target="blank"><img src="https://img.shields.io/twitter/follow/sujalsixnine?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
+  <a href="https://linkedin.com/in/sujallamichhane" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://sujallamichhane.com.np/" target="blank"><img src="https://img.shields.io/badge/Website-Visit-lightgrey?style=for-the-badge&logo=google-chrome" alt="Website" /></a>
+</p>
 
 ---
 
-## 🧠 Core Expertise
+### 🧠 About Me
 
-- 🕵️‍♂️ **Ethical Hacking (CEH v13 Certified)**
-- 🔍 **Threat Intelligence & Malware Analysis**
-- 🧩 **Digital Forensics & Incident Response**
-- 🧱 **Cyber Defense & SOC Implementation**
-- 🌐 **Network Security & Firewall Configuration**
-- ⚙️ **Wazuh, PfSense, Zabbix, Suricata**
-- 💻 **Security Automation & Scripting (Python, Bash)**
+I’m a **Cybersecurity Professional** who is **constantly exploring to protect digital space** 🌐.  
+With a strong background in **ethical hacking, malware analysis, and digital forensics**, I specialize in identifying, analyzing, and mitigating cyber threats with precision.
 
----
+My work includes:
+- Performing **penetration testing & threat intelligence research**  
+- Conducting **malware reverse engineering & forensic analysis**  
+- Building **secure network architectures** and **SOC environments**  
+- Developing **automation tools for incident response & VAPT**
 
-## 🧰 Tools & Technologies
-
-| Category | Tools & Platforms |
-|-----------|------------------|
-| **Security & Monitoring** | Wazuh, Suricata, Zabbix, OpenEDR, Vaultize |
-| **Networking** | PfSense, Fortigate, Sophos, Cisco |
-| **Forensics & Analysis** | Autopsy, Volatility, Wireshark, FTK Imager |
-| **Development & Scripting** | Python, Bash, PowerShell |
-| **Virtualization & Servers** | Hyper-V, VMware, Windows Server, Ubuntu Server |
-| **Other** | SOC, SIEM, SOAR, IDS/IPS, VPNs (IPsec, SSL) |
+🎯 My goal is to **strengthen digital resilience**, **advance cybercrime investigation capabilities**, and contribute to **Nepal’s growing cybersecurity ecosystem**.
 
 ---
 
-## 🧩 Projects
+### 🧩 Languages & Tools
 
-- 🔐 **FlowAI** — AI-powered chatbot platform for business automation.  
-- 🛰️ **Network Monitoring System** — Built using **Zabbix** & **Uptime Kuma** to monitor live endpoints.  
-- 🧱 **Multi-Layer Security Integration (SOC Model)** — Combines SIEM, SOAR, EDR, and firewall segmentation.  
-- 🧮 **DestroyGPT (CLI)** — AI-based assistant for **VAPT** and **security automation** using Python.
-
----
-
-## 🌍 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-lamichhane/)  
-[![Website](https://img.shields.io/badge/Website-visit-lightgrey?logo=google-chrome&logoColor=white)](https://sujallamichhane.com.np/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/sujallamichhane)  
+<p align="center">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
+</p>
 
 ---
 
-## ⚡ Fun Fact
+### ⚙️ Tools I Use Frequently
 
-> "The quieter you become, the more you hear — in both life and network traffic." 👀
+<p align="center">
+  <img src="https://nmap.org/images/sitelogo-2x.png" alt="Nmap" width="90" height="90"/>
+  <img src="https://www.vaadata.com/blog/wp-content/uploads/2024/05/exploiting-sqli-with-sqlmap.png" alt="SQLmap" width="90" height="90"/>
+  <img src="https://nmap.org/book/images/nmap-logo-64.png" alt="Nmap Logo" width="90" height="90"/>
+  <img src="https://www.metasploit.com/images/metasploit-logo.svg" alt="Metasploit" width="90" height="90"/>
+  <img src="https://www.torproject.org/static/images/tor-logo@2x.png?h=16ad42bc" alt="Tor" width="90" height="90"/>
+  <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" width="90" height="90"/>
+  <img src="https://avatars.githubusercontent.com/u/894508?s=200&v=4" alt="Burp Suite" width="90" height="90"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Aircrack-ng_new_logo.jpg" alt="Aircrack-ng" width="90" height="90"/>
+</p>
 
 ---
 
-### 💬 Motto:
-**“Hack Securely. Defend Relentlessly. Learn Endlessly.”**
+### 🔭 What I’m Doing Right Now
+
+<p align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Hacker GIF" width="500"/>
+</p>
+
+- 🧠 Researching new **cyber threat intelligence** models  
+- 🧩 Building **FlowAI**, an AI-based cybersecurity assistant  
+- 🧱 Designing a **multi-layer SOC integration project**  
+- ⚡ Exploring **automated VAPT** and **malware sandboxing**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujallamichhane18&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujallamichhane18&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sujallamichhane18&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/sujalsixnine" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="50" /></a>
+  <a href="https://linkedin.com/in/sujallamichhane" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" /></a>
+  <a href="https://fb.com/sujallamichhane" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="50" /></a>
+  <a href="https://instagram.com/sujallamichhane_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="50" /></a>
+</p>
+
+---
+
+### 💬 Motto
+> “Hack Securely. Defend Relentlessly. Learn Endlessly.”  
+> — *Constantly exploring to protect digital space.*
