@@ -7,17 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/sujalsixnine" target="blank"><img src="https://img.shields.io/twitter/follow/sujalsixnine?logo=twitter&style=for-the-badge" alt="sujalsixnine" /></a> </p>
 
-- 🌱 I’m currently learning **Digital Investigation & Hacking**
+As a dedicated cybersecurity professional, I bring extensive expertise in network security, penetration testing, and digital forensics. My technical proficiency covers ethical hacking methodologies, advanced threat analysis, and security operations management, backed by hands-on experience in designing secure network architectures, performing comprehensive vulnerability assessments, and executing sophisticated cyber threat investigations.
 
-- 👯 I’m looking to collaborate on **Crime Investigation and Digital Security**
+My professional focus lies in cybersecurity research and development, where I conduct controlled penetration testing scenarios within isolated environments, applying cutting-edge forensic methodologies for malware analysis, network traffic inspection, and incident response.
 
-- 🤝 I’m looking for help with **to secure Nepal's digital Future**
-
-- 💬 Ask me about **Linux, Sophos, Zabbix, VPNs, Network Monitoring, SIEM, IDS/IPS**
-
-- 📫 How to reach me: **whoisdmitry003@gmail.com**
-
-- ⚡ Fun fact: **I love to write malicious programs (for ethical testing only)**
+Looking ahead, my strategic vision is to establish a specialized cybersecurity and digital forensics consultancy aimed at strengthening organizational digital resilience, advancing cybercrime investigation capabilities, and contributing to Nepal’s evolving cybersecurity landscape.
+I remain committed to driving innovation in cyber defense technologies and fostering a more secure digital ecosystem for the future.
 
 ---
 
