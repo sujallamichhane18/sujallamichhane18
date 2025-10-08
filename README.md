@@ -1,78 +1,68 @@
-<h1 align="center">👋 Hi, I'm <a href="https://sujallamichhane.com.np/">Sujal Lamichhane</a></h1>
-<h3 align="center">🛡️ Certified Ethical Hacker (CEH v13) | Cybersecurity Specialist | Malware Hunter | Security Researcher</h3>
+<h1 align="center">⚡ Sujal Lamichhane ⚡</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sujallamichhane18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujallamichhane18&theme=darkhub&margin-w=10&margin-h=10&row=1" alt="GitHub Trophies" /></a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/sujalsixnine" target="blank"><img src="https://img.shields.io/twitter/follow/sujalsixnine?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
-  <a href="https://www.linkedin.com/in/sujal-lamichhane/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://sujallamichhane.com.np/" target="blank"><img src="https://img.shields.io/badge/Website-Visit-lightgrey?style=for-the-badge&logo=google-chrome" alt="Website" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFD1&center=true&vCenter=true&width=500&lines=Cybersecurity+Specialist;Certified+Ethical+Hacker+%7C+Malware+Analyst;Constantly+Exploring+to+Protect+Digital+Space;Defender+of+the+Digital+Realm" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I’m a **Cybersecurity Professional** who is **constantly exploring to protect digital space** 🌐.  
-With a strong background in **ethical hacking, malware analysis, and digital forensics**, I specialize in identifying, analyzing, and mitigating cyber threats with precision.
+> “The ones who see through the code, protect the world from the unseen.”
 
-My work includes:
-- Performing **penetration testing & threat intelligence research**  
-- Conducting **malware reverse engineering & forensic analysis**  
-- Building **secure network architectures** and **SOC environments**  
-- Developing **automation tools for incident response & VAPT**
+I’m **Sujal Lamichhane**, a **Cybersecurity Specialist & Ethical Hacker (CEH v13)** dedicated to fortifying the digital world.  
+I believe **hacking is an art**, and **security is its highest form of creativity**.
 
-🎯 My goal is to **strengthen digital resilience**, **advance cybercrime investigation capabilities**, and contribute to **Nepal’s growing cybersecurity ecosystem**.
+🕶️ Constantly exploring to protect digital space  
+💀 Passionate about malware analysis, threat intelligence, and SOC architectures  
+🛠️ Building **cyber defense systems** that can *detect, deceive, and destroy* modern threats  
 
 ---
 
-### 🚀 Mission
+### ⚔️ Mission: [KaalBhairav Security](https://kaalbhairavsecurity.pages.dev/)
 
 <p align="center">
-  <a href="https://kaalbhairavsecurity.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/KaalBhairav%20Security-Visit-black?style=for-the-badge&logo=shield" alt="KaalBhairav Security">
-  </a>
+  <img src="https://img.shields.io/badge/KaalBhairav%20Security-%E2%9B%94%20Defend%20The%20Digital%20Realm-black?style=for-the-badge&logo=matrix&logoColor=white" />
 </p>
 
-At **[KaalBhairav Security](https://kaalbhairavsecurity.pages.dev/)**, our mission is to **defend the digital realm with precision and purpose**.  
-We are dedicated to:
-- Protecting individuals, businesses, and governments from cyber threats  
-- Promoting cybersecurity awareness and resilience  
-- Conducting deep security research and digital forensics  
-- Building tools and systems that **detect, prevent, and respond** to modern cyberattacks  
+At **KaalBhairav Security**, we embody the spirit of **digital guardianship**.  
+Our mission is to protect cyberspace through intelligence, research, and rapid response.  
 
-*Inspired by Kaal Bhairav — the divine guardian — we stand as protectors of the digital world.*
+We focus on:
+- 🔍 **Advanced threat detection & prevention**
+- 🧠 **Cyber intelligence & digital forensics**
+- 🧱 **Defensive architecture & secure automation**
+- 💡 **Education and awareness to empower the next generation of defenders**
+
+> “Inspired by Kaal Bhairav — the eternal protector — we fight in the shadows to keep the world safe.”
 
 ---
 
-### 🔭 What I’m Doing Right Now
+### 🧩 What I'm Doing Right Now
+
+🧠 Researching AI-powered threat modeling  
+💻 Performing **authorized ethical hacking and red team assessments**  
+🛰️ Designing a **multi-layer SOC environment** integrating SIEM + SOAR + EDR  
+⚙️ Developing **security automation scripts** in Python for faster VAPT  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Hacker GIF" width="500"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500" />
 </p>
-
-- **I am hacking** — performing **authorized / ethical penetration testing and security research** within controlled environments.  
-- 🧠 Researching new **cyber threat intelligence** models  
-- 🧱 Designing a **multi-layer SOC integration project**  
-- ⚡ Exploring **automated VAPT** and **malware sandboxing**
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sujallamichhane18&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujallamichhane18&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sujallamichhane18&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sujallamichhane18&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujallamichhane18&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -80,15 +70,21 @@ We are dedicated to:
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/sujalsixnine" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="50" /></a>
-  <a href="https://www.linkedin.com/in/sujal-lamichhane/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" /></a>
-  <a href="https://fb.com/sujallamichhane" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="50" /></a>
-  <a href="https://instagram.com/sujallamichhane_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="50" /></a>
+  <a href="https://www.linkedin.com/in/sujal-lamichhane/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://sujallamichhane.com.np/"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge&logo=google-chrome" /></a>
+  <a href="https://kaalbhairavsecurity.pages.dev/"><img src="https://img.shields.io/badge/KaalBhairav%20Security-Visit-black?style=for-the-badge&logo=shield" /></a>
 </p>
 
 ---
 
 ### 💬 Motto
+
 > “Hack Securely. Defend Relentlessly. Learn Endlessly.”  
-> — *Constantly exploring to protect digital space.*
+> — *Because true warriors protect, not destroy.*
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0e0f10,100:00ffcc&section=footer" />
+</p>
 
