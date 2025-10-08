@@ -27,15 +27,7 @@ My work includes:
 
 🎯 My goal is to **strengthen digital resilience**, **advance cybercrime investigation capabilities**, and contribute to **Nepal’s growing cybersecurity ecosystem**.
 
----
 
-
-
----
-
-
-
----
 
 ### 🔭 What I’m Doing Right Now
 
