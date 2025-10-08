@@ -29,28 +29,11 @@ My work includes:
 
 ---
 
-### 🧩 Languages & Tools
 
-<p align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
-</p>
 
 ---
 
-### ⚙️ Tools I Use Frequently
 
-<p align="center">
-  <img src="https://nmap.org/images/sitelogo-2x.png" alt="Nmap" width="90" height="90"/>
-  <img src="https://www.vaadata.com/blog/wp-content/uploads/2024/05/exploiting-sqli-with-sqlmap.png" alt="SQLmap" width="90" height="90"/>
-  <img src="https://nmap.org/book/images/nmap-logo-64.png" alt="Nmap Logo" width="90" height="90"/>
-  <img src="https://www.metasploit.com/images/metasploit-logo.svg" alt="Metasploit" width="90" height="90"/>
-  <img src="https://www.torproject.org/static/images/tor-logo@2x.png?h=16ad42bc" alt="Tor" width="90" height="90"/>
-  <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" width="90" height="90"/>
-  <img src="https://avatars.githubusercontent.com/u/894508?s=200&v=4" alt="Burp Suite" width="90" height="90"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Aircrack-ng_new_logo.jpg" alt="Aircrack-ng" width="90" height="90"/>
-</p>
 
 ---
 
