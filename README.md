@@ -29,27 +29,22 @@ My work includes:
 
 ---
 
-### 🧩 Languages & Tools
+### 🚀 Mission
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
+  <a href="https://kaalbhairavsecurity.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/KaalBhairav%20Security-Visit-black?style=for-the-badge&logo=shield" alt="KaalBhairav Security">
+  </a>
 </p>
 
----
+At **[KaalBhairav Security](https://kaalbhairavsecurity.pages.dev/)**, our mission is to **defend the digital realm with precision and purpose**.  
+We are dedicated to:
+- Protecting individuals, businesses, and governments from cyber threats  
+- Promoting cybersecurity awareness and resilience  
+- Conducting deep security research and digital forensics  
+- Building tools and systems that **detect, prevent, and respond** to modern cyberattacks  
 
-### ⚙️ Tools I Use Frequently
-
-<p align="center">
-  <img src="https://nmap.org/images/sitelogo-2x.png" alt="Nmap" width="90" height="90"/>
-  <img src="https://www.vaadata.com/blog/wp-content/uploads/2024/05/exploiting-sqli-with-sqlmap.png" alt="SQLmap" width="90" height="90"/>
-  <img src="https://www.metasploit.com/images/metasploit-logo.svg" alt="Metasploit" width="90" height="90"/>
-  <img src="https://www.torproject.org/static/images/tor-logo@2x.png?h=16ad42bc" alt="Tor" width="90" height="90"/>
-  <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" width="90" height="90"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Aircrack-ng_new_logo.jpg" alt="Aircrack-ng" width="90" height="90"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="90" height="90"/>
-</p>
+💀 *Inspired by Kaal Bhairav — the divine guardian — we stand as protectors of the digital world.*
 
 ---
 
@@ -61,7 +56,6 @@ My work includes:
 
 - **I am hacking** — performing **authorized / ethical penetration testing and security research** within controlled environments.  
 - 🧠 Researching new **cyber threat intelligence** models  
-- 🧩 Building **FlowAI**, an AI-based cybersecurity assistant  
 - 🧱 Designing a **multi-layer SOC integration project**  
 - ⚡ Exploring **automated VAPT** and **malware sandboxing**
 
@@ -97,3 +91,4 @@ My work includes:
 ### 💬 Motto
 > “Hack Securely. Defend Relentlessly. Learn Endlessly.”  
 > — *Constantly exploring to protect digital space.*
+
