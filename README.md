@@ -1,90 +1,106 @@
-<h1 align="center">⚡ Sujal Lamichhane ⚡</h1>
+# ⚡ Sujal Lamichhane
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFD1&center=true&vCenter=true&width=500&lines=Cybersecurity+Specialist;Certified+Ethical+Hacker+%7C+Malware+Analyst;Constantly+Exploring+to+Protect+Digital+Space;Defender+of+the+Digital+Realm" alt="Typing SVG" />
-</p>
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=SUJAL%20LAMICHHANE&fontSize=60&color=0:000000,100:00ffd1&animation=twinkling)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=800&color=00FFD1&center=true&width=700&lines=Cybersecurity+Specialist;Certified+Ethical+Hacker+%7C+Malware+Hunter;Constantly+Exploring+to+Protect+Digital+Space)
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
 > “The ones who see through the code, protect the world from the unseen.”
 
-I’m **Sujal Lamichhane**, a **Cybersecurity Specialist & Ethical Hacker (CEH v13)** dedicated to fortifying the digital world.  
-I believe **hacking is an art**, and **security is its highest form of creativity**.
+I’m **Sujal Lamichhane**, a **Cybersecurity Specialist & Certified Ethical Hacker (CEH v13)** passionate about fortifying the digital realm.  
+Constantly exploring to protect digital space — I believe *hacking is an art, and security is its highest form of creativity.*
 
-🕶️ Constantly exploring to protect digital space  
-💀 Passionate about malware analysis, threat intelligence, and SOC architectures  
-🛠️ Building **cyber defense systems** that can *detect, deceive, and destroy* modern threats  
-
----
-
-### ⚔️ Mission: [KaalBhairav Security](https://kaalbhairavsecurity.pages.dev/)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/KaalBhairav%20Security-%E2%9B%94%20Defend%20The%20Digital%20Realm-black?style=for-the-badge&logo=matrix&logoColor=white" />
-</p>
-
-At **KaalBhairav Security**, we embody the spirit of **digital guardianship**.  
-Our mission is to protect cyberspace through intelligence, research, and rapid response.  
-
-We focus on:
-- 🔍 **Advanced threat detection & prevention**
-- 🧠 **Cyber intelligence & digital forensics**
-- 🧱 **Defensive architecture & secure automation**
-- 💡 **Education and awareness to empower the next generation of defenders**
-
-> “Inspired by Kaal Bhairav — the eternal protector — we fight in the shadows to keep the world safe.”
+**Key areas of expertise:**
+- Threat intelligence and incident response  
+- SOC architecture and security automation  
+- Malware analysis and red teaming  
+- Ethical hacking and vulnerability research  
 
 ---
 
-### 🧩 What I'm Doing Right Now
+## ⚔️ Mission — [KaalBhairav Security](https://kaalbhairavsecurity.pages.dev/)
 
-🧠 Researching AI-powered threat modeling  
-💻 Performing **authorized ethical hacking and red team assessments**  
-🛰️ Designing a **multi-layer SOC environment** integrating SIEM + SOAR + EDR  
-⚙️ Developing **security automation scripts** in Python for faster VAPT  
+> *Defend the Digital Realm.*
 
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500" />
-</p>
+At **KaalBhairav Security**, our mission is to strengthen digital resilience through:
+- Advanced threat detection and prevention  
+- Digital forensics & incident response (DFIR)  
+- Secure architecture and SIEM/SOAR integration  
+- Awareness training and ethical hacking research  
 
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujallamichhane18&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sujallamichhane18&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujallamichhane18&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+> “Inspired by Kaal Bhairav — the eternal protector — we guard cyberspace from the unseen.”
 
 ---
 
-### 🌐 Connect With Me
+## 🔭 What I’m Doing Right Now
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sujal-lamichhane/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://sujallamichhane.com.np/"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge&logo=google-chrome" /></a>
-  <a href="https://kaalbhairavsecurity.pages.dev/"><img src="https://img.shields.io/badge/KaalBhairav%20Security-Visit-black?style=for-the-badge&logo=shield" /></a>
-</p>
+- Performing **authorized** penetration testing and red-team operations  
+- Researching **AI-assisted threat modeling**  
+- Building a **multi-layer SOC** with SIEM, SOAR, and EDR integration  
+- Developing **Python automation tools** for VAPT and log analysis  
 
----
-
-### 💬 Motto
-
-> “Hack Securely. Defend Relentlessly. Learn Endlessly.”  
-> — *Because true warriors protect, not destroy.*
+![Hacker Animation](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0e0f10,100:00ffcc&section=footer" />
-</p>
+## 🧩 Projects & Highlights
+
+<details>
+<summary><b>Security & Research</b></summary>
+
+- **SOC PoC (Proof of Concept)** — End-to-end architecture for SIEM + SOAR + EDR threat correlation  
+- **DFIR Toolkit** — Python scripts for automated triage, forensic timeline building, and YARA-based analysis  
+- **KaalBhairav Security** — Awareness, consulting, and cyber defense training  
+- **Threat Intel Repository** — Aggregating IoCs, malware samples, and signature data for research use  
+
+</details>
+
+<details>
+<summary><b>Certifications & Experience</b></summary>
+
+- Certified Ethical Hacker **(CEH v13)**  
+- Experienced with Zabbix, Suricata, Wazuh, and Open EDR integration  
+- Conducted multiple **authorized** penetration tests and forensics engagements  
+- Building advanced **SOC automation** systems and alert correlation engines  
+
+</details>
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujallamichhane18&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sujallamichhane18&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujallamichhane18&theme=react-dark&hide_border=true)
+
+---
+
+## ♟️ Ethical Stance
+
+> I practice **strictly authorized** cybersecurity research and penetration testing.  
+> No unauthorized access, exploitation, or privacy violations are ever conducted.  
+> My focus is **protection, prevention, and digital resilience**.
+
+---
+
+## 🌐 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/sujal-lamichhane/)  
+- [Portfolio](https://sujallamichhane.com.np/)  
+- [KaalBhairav Security](https://kaalbhairavsecurity.pages.dev/)  
+- Email: contact@kaalbhairavsecurity.pages.dev  
+
+---
+
+## 💬 Motto
+
+> **Hack Securely. Defend Relentlessly. Learn Endlessly.**  
+> Because true warriors protect, not destroy.
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:00ffd1&section=footer)
 
