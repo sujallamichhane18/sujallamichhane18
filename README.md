@@ -1,4 +1,4 @@
-# ⚡ Sujal Lamichhane
+# ⚡ Defender of the Digital Realm
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=SUJAL%20LAMICHHANE&fontSize=60&color=0:000000,100:00ffd1&animation=twinkling)
 
@@ -91,7 +91,7 @@ At **KaalBhairav Security**, our mission is to strengthen digital resilience thr
 - [LinkedIn](https://www.linkedin.com/in/sujal-lamichhane/)  
 - [Portfolio](https://sujallamichhane.com.np/)  
 - [KaalBhairav Security](https://kaalbhairavsecurity.pages.dev/)  
-- Email: contact@kaalbhairavsecurity.pages.dev  
+- Email: infokaalbhairav@gmail.com 
 
 ---
 
