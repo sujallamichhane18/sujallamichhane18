@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujal Lamichhane</h1>
-<h3 align="center">A passionate Ethical Hacker | Cyber Security Expert | Malware Hunter | Forensics Learner</h3>
+<h3 align="center">Certified Ethical Hacker V13 AI | Cyber Security Expert | Malware Hunter | Security Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujallamichhane18&label=Profile%20views&color=0e75b6&style=flat" alt="sujallamichhane18" /> </p>
 
