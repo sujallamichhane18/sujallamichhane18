@@ -1,4 +1,4 @@
-# ⚡ Defender of the Digital Realm
+# ⚡ DEFENDER OF THE DIGITAL REALM
 
 <p align="center">
   <a href="https://sujallamichhane.com.np" target="_blank">
@@ -6,52 +6,33 @@
   </a>
 </p>
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SUJAL%20LAMICHHANE&fontSize=65&fontAlign=50&fontAlignY=40&color=0:000000,100:00ffd1&animation=fadeIn&desc=Cybersecurity%20Specialist%20%7C%20Ethical%20Hacker%20%7C%20Malware%20Hunter&descAlignY=65&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=SUJAL%20LAMICHHANE&fontSize=65&color=0:000000,100:00ffd1&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&width=700&lines=Cybersecurity+Specialist;Certified+Ethical+Hacker+(CEH+v13);Malware+Hunter+%7C+Threat+Intelligence+Analyst;Building+Resilient+SOC+Ecosystems;Defending+the+Digital+Realm+Relentlessly" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=700&color=00FFD1&center=true&vCenter=true&width=750&lines=Access+Granted...;Initializing+Digital+Defense+Protocol;Cybersecurity+Specialist+%7C+Ethical+Hacker;Tracking+Threat+Signatures...;Deploying+Countermeasures...;Mission:+Protect+the+Digital+Realm" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 ABOUT
 
-> “The ones who see through the code, protect the world from the unseen.”
+> *"They exploit the system. I exploit their exploits."*
 
-I’m **Sujal Lamichhane**, a **Cybersecurity Specialist** and **Certified Ethical Hacker (CEH v13)** devoted to defending digital ecosystems from advanced threats.  
-Blending **threat intelligence, red teaming, and automation**, I stand where the code meets chaos — turning vulnerabilities into vigilance.
+I am **Sujal Lamichhane** — a **Cybersecurity Specialist** and **Certified Ethical Hacker (CEH v13)** operating in the digital shadows.  
+My battlefield: networks, systems, and the invisible layer between logic and chaos.  
+My mission: to **detect**, **defend**, and **dismantle** digital threats before they strike.
 
-Security isn’t just my profession — it’s my discipline, my curiosity, and my calling.
-
-**🛡️ Expertise**
-- Threat Intelligence & Incident Response  
-- SOC Engineering & Security Automation  
-- Malware Analysis & Digital Forensics  
-- Ethical Hacking & Exploit Research  
+I believe hacking is not crime — it's **clarity**.  
+Understanding the system means mastering it, and mastering it means protecting it.
 
 ---
 
-## ⚔️ Vision — [KaalBhairav Security](https://kaalbhairavsecurity.pages.dev/)
+## ⚔️ CURRENT OPERATIONS
 
-> “Inspired by *Kaal Bhairav*, the eternal protector — we guard cyberspace from the unseen.”
-
-**KaalBhairav Security** is my initiative to strengthen cyber resilience through:
-
-- ⚙️ **Threat Detection & Prevention** — advanced SOC, SIEM, and SOAR models  
-- 🧩 **DFIR Operations** — deep forensic triage and post-incident analytics  
-- 🤖 **Secure Automation** — AI-driven defense and log correlation pipelines  
-- 🧠 **Cyber Awareness** — training defenders to think like attackers  
-
-> *Defend Relentlessly. Learn Continuously. Inspire Others.*
-
----
-
-## 🔭 Current Focus
-
-- Conducting **authorized red team simulations**  
-- Building **AI-assisted threat modeling frameworks**  
-- Designing a **multi-layer SOC** (SIEM + SOAR + EDR + TI Integration)  
-- Developing **Python tools** for vulnerability assessment & forensic analysis  
+- Conducting **authorized red-team & penetration tests**  
+- Developing **Python-based tools** for exploit analysis & automation  
+- Researching **AI-assisted threat modeling** and detection bypasses  
+- Building **SOC-level intelligence workflows** for proactive defense  
 
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" alt="Hacker Animation">
@@ -59,31 +40,30 @@ Security isn’t just my profession — it’s my discipline, my curiosity, and 
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 PROJECT LOGS
 
 <details>
-<summary><b>🧠 Cybersecurity Research</b></summary>
+<summary><b>🔐 Current Research</b></summary>
 
-- 🛰️ **SOC PoC Architecture** — end-to-end SIEM + SOAR + EDR integration  
-- ⚔️ **DFIR Toolkit** — automated forensic analysis with YARA and timeline building  
-- 🔥 **KaalBhairav Security** — cybersecurity awareness & consulting platform  
-- 🧬 **Threat Intel Repository** — IoCs, malware samples, and open-source datasets  
+- **SOC Proof-of-Concept** — correlation between SIEM + SOAR + EDR  
+- **DFIR Automation** — rapid triage, YARA scan, and log timeline builder  
+- **Malware Pattern Engine** — analyzing network traffic & memory artifacts  
+- **Python Recon Suite** — multi-module recon & vuln detection system  
 
 </details>
 
 <details>
-<summary><b>🎓 Certifications & Achievements</b></summary>
+<summary><b>🎓 Certifications</b></summary>
 
-- 🎯 **Certified Ethical Hacker (CEH v13)**  
-- 🧩 Experienced with **Zabbix, Wazuh, Suricata, OpenEDR, Shuffle SOAR**  
-- 🔐 Conducted multiple **authorized penetration tests & forensic engagements**  
-- ⚙️ Developed **custom SOC automation pipelines** with alert correlation logic  
+- 🧠 Certified Ethical Hacker (CEH v13)  
+- 🔍 Experienced with Suricata, Wazuh, Zabbix, and OpenEDR integrations  
+- 🧩 Performed **authorized** penetration testing & incident response  
 
 </details>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GITHUB INTELLIGENCE FEED
 
 <div align="center">
 
@@ -95,42 +75,33 @@ Security isn’t just my profession — it’s my discipline, my curiosity, and 
 
 ---
 
-## 🧭 Tech Arsenal
+## ♟️ ETHICAL CODE
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,ubuntu,kali,git,github,html,css,js,react,sqlite,mysql,postman,docker,nginx,azure" />
-</p>
+> “The power to exploit is also the power to protect — I always choose protection.”
 
----
-
-## ♟️ Ethical Oath
-
-> “The power to exploit is also the power to protect — I choose protection.”
-
-I engage **only in authorized** cybersecurity operations and ethical hacking.  
-No exploitation. No data abuse. No digital harm.  
-My focus remains on **protection, awareness, and digital resilience.**
+All engagements are **legally authorized** and focused on **defensive security research**.  
+No unauthorized intrusion. No harm. No exceptions.  
+Purpose: **Strengthen, Educate, Defend.**
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 CONTACT NODE
 
 <div align="center">
 
-🌍 [**sujallamichhane.com.np**](https://sujallamichhane.com.np)  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/sujal-lamichhane/)  
-🛡️ [**KaalBhairav Security**](https://kaalbhairavsecurity.pages.dev/)  
-✉️ [**Email**](mailto:infokaalbhairav@gmail.com)
+🕸️ [**sujallamichhane.com.np**](https://sujallamichhane.com.np)  
+💼 [**LinkedIn**](https://www.linkedin.com/in/sujal-lamichhane/)  
+📧 [**Email**](mailto:infokaalbhairav@gmail.com)
 
 </div>
 
 ---
 
-## 💬 Motto
+## 💬 MOTTO
 
-> **Hack Securely. Defend Relentlessly. Learn Endlessly.**  
-> Because *true warriors protect — not destroy.*
+> **“Hack Securely. Defend Relentlessly. Learn Endlessly.”**  
+> _Because real hackers don’t destroy systems — they reinforce them._
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=0:000000,100:00ffd1&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:00ffd1&section=footer)
