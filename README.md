@@ -96,7 +96,6 @@ Defense-in-depth architecture with multiple security layers integrated into a ce
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujallamichhane18&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ffd1&text_color=ffffff&icon_color=00ffd1)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sujallamichhane18&theme=radical&hide_border=true&background=0D1117&stroke=00ffd1&ring=00ffd1&fire=00ffd1&currStreakLabel=00ffd1)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujallamichhane18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffd1&text_color=ffffff)
 
@@ -116,7 +115,6 @@ Defense-in-depth architecture with multiple security layers integrated into a ce
 
 - 🌐 Website: [sujallamichhane.com.np](https://sujallamichhane.com.np)
 - 💼 LinkedIn: [Sujal Lamichhane](https://www.linkedin.com/in/sujal-lamichhane/)
-- 📧 Email: infokaalbhairav@gmail.com
 
 ---
 
