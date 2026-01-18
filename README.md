@@ -31,8 +31,6 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
 ```python
 #!/usr/bin/env python3
 
@@ -77,8 +75,6 @@ defender = CyberDefender()
 print(f"{defender.name}: Ready for deployment! 🔐")
 ```
 
-<br clear="right"/>
-
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Arsenal
@@ -111,57 +107,6 @@ print(f"{defender.name}: Ready for deployment! 🔐")
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
-
----
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">🔐 Unified SOC Framework</h3>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sujallamichhane18&repo=unified-soc-framework&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffd1&icon_color=00ffd1" alt="Project 1" />
-
-<p><strong>Enterprise-grade SOC with open-source tools</strong></p>
-
-**Stack:** pfSense • Suricata • Wazuh • TheHive • OpenEDR
-
-**Features:**
-- ✅ Real-time threat detection
-- ✅ Automated response (severity > 7)
-- ✅ Multi-source threat intelligence
-- ✅ Discord integration
-
-</div>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🛡️ Multi-Layer SIEM</h3>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sujallamichhane18&repo=multi-layer-siem&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffd1&icon_color=00ffd1" alt="Project 2" />
-
-<p><strong>Defense-in-depth security architecture</strong></p>
-
-**Stack:** Wazuh • Suricata • VirusTotal • Postfix
-
-**Layers:**
-- 🔥 Perimeter: pfSense Firewall
-- 🛡️ Detection: Suricata IDS/IPS
-- 💻 Host: Wazuh HIDS + VirusTotal
-- 📧 Response: Postfix Alerts
-
-</div>
-
-</td>
-</tr>
-</table>
 
 ---
 
