@@ -1,140 +1,87 @@
 <div align="center">
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&text=SUJAL%20LAMICHHANE&fontSize=60&fontAlign=50&fontAlignY=40&color=gradient&customColorList=6,11,20&desc=Cybersecurity%20Specialist%20|%20CEH%20v13&descSize=18&descAlign=50&descAlignY=60)
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> ACCESS GRANTED: SUJAL LAMICHHANE
-
-```ascii
-╔════════════════════════════════════════════════════════════════╗
-║  🔓 CLEARANCE LEVEL: OMEGA                                     ║
-║  📍 LOCATION: Kathmandu, Nepal                                 ║
-║  🎯 MISSION: Defend the Digital Realm                          ║
-║  ⚡ STATUS: [ONLINE] • [ARMED] • [DANGEROUS TO MALWARE]       ║
-╚════════════════════════════════════════════════════════════════╝
-```
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Certified+Ethical+Hacker+(CEH+v13);Turning+Vulnerabilities+Into+Victories;One+Exploit+at+a+Time..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFD1&center=true&vCenter=true&random=false&width=750&lines=Welcome+to+the+Digital+Battlefield;Certified+Ethical+Hacker+%7C+CEH+v13;Building+Defensive+Security+Systems;Red+Team+%26+SOC+Operations+Expert" alt="Typing SVG" />
 </p>
 
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-00FFD1?style=for-the-badge&logo=link&logoColor=black)](https://sujallamichhane.com.np)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-lamichhane/)
-[![Email](https://img.shields.io/badge/Encrypted_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infokaalbhairav@gmail.com)
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sujallamichhane18&label=THREAT+ACTORS+DETECTED&color=00ffd1&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/sujallamichhane18?label=Allied+Forces&style=for-the-badge&color=00ffd1)
+[![Website](https://img.shields.io/badge/🌐_Portfolio-00FFD1?style=for-the-badge&logoColor=black)](https://sujallamichhane.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-lamichhane/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infokaalbhairav@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sujallamichhane18&color=00ffd1&style=for-the-badge&label=VISITORS)
+![GitHub Followers](https://img.shields.io/github/followers/sujallamichhane18?label=Followers&style=for-the-badge&color=00ffd1&labelColor=000000)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## 🎯 WHO AM I?
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> DECODING THE OPERATIVE
-
-<img align="right" alt="Hacking" width="420" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```python
-#!/usr/bin/env python3
-# classified_profile.py
-
-class CyberWarrior:
+class CyberDefender:
     def __init__(self):
-        self.codename = "Sujal Lamichhane"
-        self.role = "Offensive Security Specialist"
-        self.credentials = ["CEH v13", "SOC Analyst", "Red Teamer"]
-        self.mindset = "Think like an attacker, defend like a guardian"
+        self.name = "Sujal Lamichhane"
+        self.role = "Cybersecurity Specialist"
+        self.certification = "Certified Ethical Hacker (CEH v13)"
+        self.location = "Kathmandu, Nepal"
+        self.mindset = "Offensive skills for defensive purposes"
         
-    def skill_tree(self):
+    def expertise(self):
         return {
-            '🎯 Primary_Ops': [
-                'Penetration Testing',
-                'Security Operations Center (SOC)',
-                'Threat Hunting & Intelligence',
-                'Red Team Operations'
+            "primary": [
+                "Security Operations Center (SOC)",
+                "Penetration Testing & Red Teaming",
+                "SIEM & SOAR Implementation",
+                "Threat Intelligence & Hunting"
             ],
-            '🛠️ Weaponry': [
-                'SIEM/SOAR Automation',
-                'Network Security Architecture',
-                'Incident Response & Forensics',
-                'Exploit Development'
-            ],
-            '💀 Signature_Move': 'Zero-Day Discovery → Responsible Disclosure'
+            "secondary": [
+                "Security Automation",
+                "Incident Response & Forensics",
+                "Vulnerability Assessment",
+                "Network Security Architecture"
+            ]
         }
     
-    def operating_principle(self):
-        return "Every system has a weakness. I find it before the bad guys do."
-
-# Initialize operative
-agent = CyberWarrior()
-print(f"Agent {agent.codename}: Mission Briefing Complete")
+    def current_mission(self):
+        return "Protecting digital assets through ethical hacking"
 ```
 
-<br>
+**🎖️ Professional Motto:**
+> *"Every vulnerability I find makes the world a little safer."*
+
+<br clear="right"/>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🔥 CYBER ARSENAL & COMBAT TOOLS
+## 🛠️ CYBER ARSENAL
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJoMXBtYmRxcWd6eDZvamJ3YnA0dGE3dGJ2Zm16NWJqZDZlY3R6YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RbDKaczqWovIugyJmW/giphy.gif" width="350">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Hacking">
 
-### 🎯 Offensive Security Suite
+### 🔴 Offensive Security Tools
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali" />
-<br>Kali Linux
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" width="48" height="48" alt="Metasploit" />
-<br>Metasploit
-</td>
-<td align="center" width="96">
-<img src="https://avatars.githubusercontent.com/u/6155384?s=200&v=4" width="48" height="48" alt="Burp" />
-<br>Burp Suite
-</td>
-<td align="center" width="96">
-<img src="https://www.wireshark.org/assets/icons/wireshark-fin@2x.png" width="48" height="48" alt="Wireshark" />
-<br>Wireshark
-</td>
-<td align="center" width="96">
-<img src="https://nmap.org/images/nmap-logo-256x256.png" width="48" height="48" alt="Nmap" />
-<br>Nmap
-</td>
-</tr>
-</table>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white)
 
-### 🛡️ Defense & Monitoring Systems
+### 🔵 Defensive & Monitoring
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://avatars.githubusercontent.com/u/13333582?s=200&v=4" width="48" height="48" alt="Wazuh" />
-<br>Wazuh
-</td>
-<td align="center" width="96">
-<img src="https://suricata.io/wp-content/uploads/2021/04/Logo_Suricata_vert_R_whiteBG.png" width="48" height="48" alt="Suricata" />
-<br>Suricata
-</td>
-<td align="center" width="96">
-<img src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png" width="96" height="25" alt="Zabbix" />
-<br>Zabbix
-</td>
-<td align="center" width="96">
-<img src="https://thehive-project.org/images/thehive-project.png" width="48" height="48" alt="TheHive" />
-<br>TheHive
-</td>
-<td align="center" width="96">
-<img src="https://avatars.githubusercontent.com/u/93000001?s=200&v=4" width="48" height="48" alt="OpenEDR" />
-<br>OpenEDR
-</td>
-</tr>
-</table>
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logoColor=white)
+![TheHive](https://img.shields.io/badge/TheHive-FFB300?style=for-the-badge&logoColor=black)
+![OpenEDR](https://img.shields.io/badge/OpenEDR-000000?style=for-the-badge&logoColor=white)
 
 ### 💻 Development & Automation
 
@@ -149,178 +96,173 @@ print(f"Agent {agent.codename}: Mission Briefing Complete")
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## 🚀 ACTIVE OPERATIONS
 
-## 🎮 ACTIVE OPERATIONS [CLASSIFIED]
-
-<img align="left" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="left" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Security">
 
 ### 🔐 Operation: SENTINEL
 **Unified Open-Source SOC Framework**
 
-Building an impenetrable fortress with automated threat detection, multi-source intelligence, and zero-touch response capabilities.
+A comprehensive Security Operations Center built with open-source tools, featuring automated threat detection, intelligence enrichment, and incident response.
 
-**Tech Stack:**
-`pfSense` • `Suricata` • `Wazuh` • `TheHive` • `OpenEDR` • `MISP` • `VirusTotal`
+**Core Technologies:**
+- `pfSense` • `Suricata` • `Wazuh` 
+- `TheHive` • `Cortex` • `OpenEDR`
+- `VirusTotal` • `MISP` • `AlienVault OTX`
 
-**Status:** `[██████████] OPERATIONAL`
+**Key Features:**
+- Real-time threat detection & correlation
+- Automated blocking (severity > 7)
+- Multi-source threat intelligence
+- Discord alert integration
 
 <br clear="left"/>
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+---
+
+<img align="right" width="400" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" alt="Firewall">
 
 ### 🛡️ Operation: BASTION
-**Multi-Layer SIEM Integration**
+**Multi-Layer SIEM Security Integration**
 
-Defense-in-depth architecture simulating real-world attacks while correlating events across network and host layers for maximum visibility.
+Defense-in-depth architecture with multiple security layers integrated into a centralized SIEM framework for comprehensive threat detection and response.
 
-**Tech Stack:**
-`Wazuh` • `Suricata` • `VirusTotal` • `Postfix` • `Kali Linux`
+**Architecture Layers:**
+1. **Perimeter:** pfSense Firewall
+2. **Detection:** Suricata IDS/IPS
+3. **Host Security:** Wazuh HIDS + VirusTotal
+4. **Response:** Postfix Email Alerts
 
-**Status:** `[██████████] FORTIFIED`
+**Capabilities:**
+- Cross-layer event correlation
+- Real-time threat detection
+- Red team testing with Kali Linux
+- File integrity monitoring
 
 <br clear="right"/>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 📊 INTELLIGENCE DASHBOARD
+## 📊 BATTLE STATISTICS
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdxaTQwdGdybTJyNG1naHBlZ3l1eWR5bWpleXRheHM3emV6MnhtbyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="350" alt="Stats">
 
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=sujallamichhane18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffd1&icon_color=00ffd1&text_color=ffffff&custom_title=Battle+Statistics" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=sujallamichhane18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffd1&icon_color=00ffd1&text_color=ffffff&custom_title=Combat+Statistics" width="100%" alt="GitHub Stats"/>
+
 </td>
 <td align="center" width="50%">
-<img src="https://streak-stats.demolab.com?user=sujallamichhane18&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ffd1&ring=00ffd1&fire=00ffd1&currStreakLabel=00ffd1&sideNums=ffffff&sideLabels=00ffd1&dates=ffffff&currStreakNum=ffffff" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sujallamichhane18&theme=radical&hide_border=true&background=0D1117&stroke=00ffd1&ring=00ffd1&fire=00ffd1&currStreakLabel=00ffd1&sideNums=ffffff&sideLabels=00ffd1&dates=ffffff" width="100%" alt="GitHub Streak"/>
+
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujallamichhane18&bg_color=0d1117&color=00ffd1&line=00ffd1&point=ffffff&area=true&hide_border=true&custom_title=Mission+Activity+Timeline" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujallamichhane18&bg_color=0d1117&color=00ffd1&line=00ffd1&point=ffffff&area=true&hide_border=true&custom_title=Mission+Activity+Timeline" width="100%" alt="Activity Graph"/>
 
-### 📈 Weapon Proficiency
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujallamichhane18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffd1&text_color=ffffff&custom_title=Arsenal+Composition" width="45%" />
-
-### 🏆 Achievement Unlocked
-
-<img src="https://github-profile-trophy.vercel.app/?username=sujallamichhane18&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers" width="80%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujallamichhane18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffd1&text_color=ffffff&custom_title=Weapon+Arsenal" width="45%" alt="Top Languages"/>
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🎖️ CREDENTIALS & CERTIFICATIONS
+## 🎓 CREDENTIALS
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk1aWVhOWR5ZWltc3M5dDlnZW5xZHpnaXZoM2p3M3hoN2J0cTc3MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Y4bzT1puw2EjQHNTeK/giphy.gif" width="300">
-
 ```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  🥇 CERTIFIED ETHICAL HACKER (CEH v13)                 │
-│     ├─ Issuer: EC-Council                              │
-│     ├─ Status: ✅ Active                               │
-│     └─ Specialization: Offensive Security              │
-│                                                         │
-│  🛡️ SECURITY OPERATIONS SPECIALIST                     │
-│     ├─ Focus: SOC Architecture & Management            │
-│     ├─ Skills: SIEM, SOAR, Threat Hunting              │
-│     └─ Expertise: Incident Response & Forensics        │
-│                                                         │
-│  🎯 PENETRATION TESTING EXPERT                         │
-│     ├─ Domain: Network & Application Security          │
-│     ├─ Methods: Black Box, White Box, Grey Box         │
-│     └─ Tools: 20+ Professional Security Tools          │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  🏆 CERTIFIED ETHICAL HACKER (CEH v13)                      ║
+║     ├─ Issuing Authority: EC-Council                        ║
+║     ├─ Status: ✅ Active & Current                          ║
+║     └─ Domain: Offensive Security & Penetration Testing     ║
+║                                                              ║
+║  🛡️ SECURITY OPERATIONS SPECIALIST                          ║
+║     ├─ SOC Architecture & Management                        ║
+║     ├─ SIEM/SOAR Implementation & Automation                ║
+║     └─ Threat Hunting & Intelligence Analysis               ║
+║                                                              ║
+║  🎯 PENETRATION TESTING EXPERT                              ║
+║     ├─ Network & Application Security Assessment            ║
+║     ├─ Vulnerability Research & Exploit Development         ║
+║     └─ Red Team Operations & Purple Team Exercises          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🌐 SECURE COMMUNICATION CHANNELS
+## 🌐 CONTACT & COLLABORATION
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" width="400">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's Connect!</b></em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Website-sujallamichhane.com.np-00FFD1?style=for-the-badge)](https://sujallamichhane.com.np)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sujal-lamichhane/)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:infokaalbhairav@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/sujallamichhane18)
+
+### 🤝 Open to Collaborate On:
+
+```yaml
+Interests:
+  - Security Research & Vulnerability Disclosure
+  - CTF Competitions & Challenges
+  - Open Source Security Projects
+  - SOC Architecture Design
+  - Penetration Testing Engagements
+  - Security Awareness & Training
 ```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  📡 Establishing Encrypted Connection...        ┃
-┃  🔐 Handshake Protocol: TLS 1.3                ┃
-┃  ✅ Identity Verified                          ┃
-┃  🟢 Channel Status: SECURE                     ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-<a href="https://sujallamichhane.com.np">
-  <img src="https://img.shields.io/badge/🌐_HQ_Base-00FFD1?style=for-the-badge&logoColor=black" />
-</a>
-<a href="https://www.linkedin.com/in/sujal-lamichhane/">
-  <img src="https://img.shields.io/badge/📡_Intel_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:infokaalbhairav@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Secure_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/sujallamichhane18">
-  <img src="https://img.shields.io/badge/💾_Code_Vault-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-### 🤝 Open For Collaboration On:
-`Security Research` • `Vulnerability Disclosure` • `CTF Competitions` • `Open Source Security Projects`
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 💀 THE HACKER'S CREED
+## 💭 THE HACKER'S PHILOSOPHY
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Think">
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
-║   "In a world of infinite vulnerabilities,                   ║
-║    I am the exception handler.                               ║
+║         "In a world of vulnerabilities,                       ║
+║          I am the exception handler."                         ║
 ║                                                               ║
-║    Every exploit I discover makes the world safer.           ║
-║    Every system I secure protects countless lives.           ║
-║    Every bug I report prevents future catastrophes."         ║
+║   Every exploit discovered → One system secured               ║
+║   Every bug reported → Countless attacks prevented            ║
+║   Every defense built → Digital lives protected               ║
 ║                                                               ║
-║   🔐 Hack Securely    ▸ Always authorized, always ethical    ║
-║   🛡️ Defend Fiercely  ▸ Guardian of the digital realm        ║
-║   📚 Learn Forever    ▸ The attack surface never stops       ║
-║                        evolving, neither do I                ║
+║   🔐 Hack Ethically  • Always authorized, never malicious    ║
+║   🛡️ Defend Fiercely • Guardian of digital infrastructure    ║
+║   📚 Learn Constantly • Threats evolve, so must I            ║
 ║                                                               ║
-║   "I don't break systems. I break into them to show          ║
-║    how to make them unbreakable."                            ║
+║   "I don't break systems to destroy them.                    ║
+║    I break into them to make them unbreakable."              ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-### ⚠️ DISCLAIMER
+### ⚠️ LEGAL DISCLAIMER
+
 ```diff
-+ All security research and testing is performed with explicit written authorization
-+ I believe in responsible disclosure and work closely with vendors to patch vulnerabilities
-+ My goal is to strengthen defenses, not exploit weaknesses for personal gain
-- Unauthorized access to systems is illegal and unethical
++ All security testing is conducted with explicit written authorization
++ I practice responsible disclosure and work with vendors to patch vulnerabilities
++ My mission is to strengthen security, not exploit weaknesses
+- Unauthorized system access is illegal and unethical
 - This profile is for educational and professional purposes only
 ```
 
@@ -330,14 +272,19 @@ Defense-in-depth architecture simulating real-world attacks while correlating ev
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&text=Stay+Secure+🔒&fontSize=20&fontColor=ffffff&animation=twinkling" />
+### 🔥 "Real hackers don't destroy systems — they reinforce them." 🔥
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-<img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" />
+<br>
 
-**© 2026 Sujal Lamichhane | Securing Digital Assets One Exploit at a Time**
+![GitHub Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-![snake gif](https://github.com/sujallamichhane18/sujallamichhane18/blob/output/github-contribution-grid-snake-dark.svg)
+<br>
+
+![Made with Love](https://img.shields.io/badge/Made_with-❤️_and_☕-00ffd1?style=for-the-badge)
+![Powered by](https://img.shields.io/badge/Powered_by-Caffeine_&_Curiosity-00ffd1?style=for-the-badge)
+
+**© 2026 Sujal Lamichhane • Securing the Digital World One Vulnerability at a Time**
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
