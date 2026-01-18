@@ -186,71 +186,231 @@ Experience:
 
 <div align="center">
 
-## 🧩 CLASSIFIED PROJECT LOGS
+## 🧩 ACTIVE PROJECTS & RESEARCH
 
 </div>
 
 ```console
 ┌──(root㉿DEFENSE-NODE)-[~/projects]
-└─$ ls -la research/
+└─$ ls -la active_projects/
 
-drwxr-xr-x 4 root root 4096 Jan 18 2026 soc_poc/
-drwxr-xr-x 3 root root 4096 Jan 18 2026 dfir_automation/
-drwxr-xr-x 5 root root 4096 Jan 18 2026 malware_engine/
-drwxr-xr-x 2 root root 4096 Jan 18 2026 python_recon/
+drwxr-xr-x 4 root root 4096 Jan 18 2026 unified-soc-framework/
+drwxr-xr-x 3 root root 4096 Jan 18 2026 multi-layer-siem-integration/
 ```
 
 <details>
-<summary><b>🔐 ACTIVE RESEARCH PROJECTS</b></summary>
+<summary><b>🔐 PROJECT #1: UNIFIED OPEN-SOURCE SOC FRAMEWORK</b></summary>
 
 <br>
 
-### 1️⃣ SOC Proof-of-Concept
-```yaml
-Status: In Development [████████░░] 85%
-Description: Advanced correlation engine
-Components:
-  - SIEM Integration (Splunk/Wazuh)
-  - SOAR Automation (TheHive)
-  - EDR Telemetry (OpenEDR)
-  - Custom Threat Intel Feed
-Tech Stack: Python, ELK Stack, Docker
-```
+### 📋 Overview
+A comprehensive Security Operations Center (SOC) framework built entirely with open-source tools, integrating network security, SIEM, SOAR, threat intelligence, incident response, and EDR into a single, automated security architecture.
 
-### 2️⃣ DFIR Automation Framework
-```yaml
-Status: Testing Phase [██████████] 95%
-Description: Rapid incident response toolkit
-Features:
-  - Automated Triage Module
-  - YARA Rule Scanner
-  - Log Timeline Builder
-  - Memory Forensics Integration
-Tech Stack: Python, Volatility, Plaso
-```
-
-### 3️⃣ Malware Pattern Engine
-```yaml
-Status: Research Phase [██████░░░░] 60%
-Description: ML-based malware detection
-Analysis:
-  - Network Traffic Patterns
-  - Memory Artifact Detection
-  - Behavioral Analysis
-  - C2 Communication Detection
-Tech Stack: Python, Scikit-learn, TensorFlow
-```
-
-### 4️⃣ Python Recon Suite
+### 🎯 Project Objectives
 ```yaml
 Status: Production Ready [██████████] 100%
-Description: Multi-module reconnaissance tool
-Modules:
-  - Subdomain Enumeration
-  - Port Scanning & Service Detection
-  - Vulnerability Assessment
-  - Report Generation
-Tech Stack: Python, Nmap, SQLite
+Type: Enterprise-Grade SOC Implementation
+Scale: Scalable, Modular, Cost-Effective
+Target: Educational, Research, SME Environments
+```
+
+**Core Capabilities:**
+- ✅ Real-time security threat detection
+- ✅ Threat intelligence enrichment
+- ✅ Automated response actions
+- ✅ Efficient incident management
+- ✅ End-to-end visibility across network and endpoints
+
+### 🏗️ Architecture Components
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔐 Network & Perimeter Security
+- **pfSense Firewall** - Network gateway and traffic control
+- **Suricata IDS/IPS** - Deep packet inspection
+- **IOC-based blocklists** - Threat mitigation
+
+#### 🧠 SIEM & SOAR (DMZ)
+- **Wazuh** - Log collection, correlation, detection
+- **SOAR Automation** - Incident handling workflows
+
+#### 🌐 Threat Intelligence
+- **VirusTotal** - File/URL reputation
+- **MISP** - Threat sharing platform
+- **AbuseIPDB** - IP reputation
+- **AlienVault OTX** - Open threat exchange
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚨 Incident Response
+- **TheHive** - Incident & case management
+- **Cortex** - Automated analyzers & responders
+
+#### 💻 Endpoint Security
+- **OpenEDR** - Endpoint detection & response
+- **Wazuh Agent** - Windows endpoint monitoring
+
+#### 📊 Logging & Alerting
+- Centralized logging infrastructure
+- **Discord** - Real-time alert notifications
+
+#### 🚫 Automated Response
+- Auto-blocking (severity > 7)
+- Dynamic pfSense rule updates
+- Zero-touch threat mitigation
+
+</td>
+</tr>
+</table>
+
+### 🔄 Data Flow Architecture
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                     DATA FLOW PIPELINE                       │
+├─────────────────────────────────────────────────────────────┤
+│  1. Network Traffic  →  pfSense + Suricata                  │
+│  2. Log Forwarding   →  Wazuh SIEM                          │
+│  3. Enrichment       →  Threat Intelligence Platforms       │
+│  4. Automation       →  SOAR Workflows                      │
+│  5. Case Management  →  TheHive                             │
+│  6. Endpoint Action  →  OpenEDR                             │
+│  7. Notifications    →  Discord Alerts                      │
+│  8. Auto-Response    →  pfSense Firewall Block              │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### 🎯 Key Features
+- **Automated Threat Response** - Severity-based auto-blocking
+- **Multi-Source Intelligence** - 4+ threat intel feeds
+- **Centralized Management** - Single pane of glass visibility
+- **Scalable Architecture** - Modular component design
+- **Cost-Effective** - 100% open-source tooling
+
+</details>
+
+<details>
+<summary><b>🛡️ PROJECT #2: MULTI-LAYER SECURITY INTEGRATION BASED ON SIEM SOLUTION</b></summary>
+
+<br>
+
+### 📋 Overview
+A defense-in-depth security architecture implementing multiple security layers integrated into a centralized SIEM-driven SOC framework. This project simulates real-world attacks, detects threats in real-time, correlates security events, and provides automated alerting.
+
+### 🎯 Project Objectives
+```yaml
+Status: Operational [██████████] 100%
+Type: Multi-Layer Defense Architecture
+Approach: Detection, Visibility, Response
+Environment: SOC Simulation & Testing
+```
+
+**Core Capabilities:**
+- ✅ Realistic cyberattack simulation
+- ✅ Real-time malicious activity detection
+- ✅ Cross-layer log correlation
+- ✅ Host-based intrusion detection (HIDS)
+- ✅ Automated email alerting
+- ✅ Enhanced malware detection via threat intelligence
+
+### 🧱 Architecture Components
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔥 pfSense (Firewall)
+- Network perimeter security
+- Traffic filtering & access control
+- Network segmentation & routing
+- First line of defense
+
+#### 🛡️ Suricata (IDS/IPS)
+- Deep Packet Inspection (DPI)
+- Signature-based detection
+- Anomaly-based detection
+- Scan/exploit detection
+- SIEM alert forwarding
+
+#### 📊 Wazuh (SIEM / HIDS)
+- Centralized log collection
+- Event correlation engine
+- Rule-based detection
+- Behavior-based analysis
+- File integrity monitoring
+- Rootkit detection
+- Real-time dashboards
+
+</td>
+<td width="50%" valign="top">
+
+#### 📧 Postfix (Email Server)
+- SMTP server configuration
+- Real-time security alerts
+- Administrator notifications
+- Wazuh integration
+
+#### 🧪 Kali Linux (Red Team)
+- Attack simulation platform
+- Network scanning tests
+- Brute-force simulations
+- Exploitation attempts
+- Credential-based attacks
+
+#### 🧬 VirusTotal Integration
+- Wazuh HIDS enhancement
+- Suspicious file analysis
+- Hash reputation checking
+- Malware detection accuracy
+- Threat intelligence context
+
+</td>
+</tr>
+</table>
+
+### 🔄 Security Layers
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                    Layer 4: Response                    │
+│              (Email Alerts via Postfix)                 │
+├─────────────────────────────────────────────────────────┤
+│                Layer 3: Host Security                   │
+│         (Wazuh HIDS + VirusTotal Integration)           │
+├─────────────────────────────────────────────────────────┤
+│              Layer 2: Network Detection                 │
+│              (Suricata IDS/IPS + DPI)                   │
+├─────────────────────────────────────────────────────────┤
+│               Layer 1: Perimeter Security               │
+│              (pfSense Firewall + Rules)                 │
+└─────────────────────────────────────────────────────────┘
+```
+
+### 🎯 Key Features
+- **Defense in Depth** - Multi-layer security approach
+- **Real-Time Correlation** - Cross-layer event analysis
+- **Automated Alerting** - Instant email notifications
+- **Attack Simulation** - Red team testing capabilities
+- **Threat Intelligence** - VirusTotal integration for enhanced detection
+- **SOC Simulation** - Mirrors real-world SOC environments
+
+### 🧪 Detection Capabilities
+```yaml
+Network Layer:
+  - Port Scans & Reconnaissance
+  - Exploitation Attempts
+  - Suspicious Traffic Patterns
+  - Protocol Anomalies
+
+Host Layer:
+  - File Integrity Changes
+  - Rootkit Detection
+  - Malware Execution
+  - Suspicious Process Behavior
+  - Authentication Anomalies
 ```
 
 </details>
