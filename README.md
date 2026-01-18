@@ -1,11 +1,11 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&text=SUJAL%20LAMICHHANE&fontSize=60&fontAlign=50&fontAlignY=40&color=gradient&customColorList=6,11,20&desc=Cybersecurity%20Specialist%20|%20CEH%20v13&descSize=18&descAlign=50&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&text=SUJAL%20LAMICHHANE&fontSize=60&fontAlign=50&fontAlignY=40&color=gradient&customColorList=6,11,20&desc=Cybersecurity%20Specialist&descSize=18&descAlign=50&descAlignY=60)
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFD1&center=true&vCenter=true&random=false&width=750&lines=Welcome+to+the+Digital+Battlefield;Certified+Ethical+Hacker+%7C+CEH+v13;Building+Defensive+Security+Systems;Red+Team+%26+SOC+Operations+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFD1&center=true&vCenter=true&random=false&width=750&lines=Welcome+to+the+Digital+Battlefield;Certified+Ethical+Hacker;CISCO+Certified+CyberOps+Associate;Building+Defensive+Security+Systems" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -30,7 +30,10 @@ class CyberDefender:
     def __init__(self):
         self.name = "Sujal Lamichhane"
         self.role = "Cybersecurity Specialist"
-        self.certification = "Certified Ethical Hacker (CEH v13)"
+        self.certifications = [
+            "Certified Ethical Hacker",
+            "CISCO Certified CyberOps Associate"
+        ]
         self.location = "Kathmandu, Nepal"
         self.mindset = "Offensive skills for defensive purposes"
         
@@ -143,46 +146,40 @@ Defense-in-depth architecture with multiple security layers integrated into a ce
 
 ---
 
-## 📊 BATTLE STATISTICS
+## 📊 GITHUB STATISTICS
 
 <div align="center">
 
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="350" alt="Stats">
 
-<table>
-<tr>
-<td align="center" width="50%">
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujallamichhane18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffd1&icon_color=00ffd1&text_color=ffffff&custom_title=Combat+Statistics" width="100%" alt="GitHub Stats"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujallamichhane18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffd1&icon_color=00ffd1&text_color=ffffff)](https://github.com/sujallamichhane18)
 
-</td>
-<td align="center" width="50%">
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sujallamichhane18&theme=radical&hide_border=true&background=0D1117&stroke=00ffd1&ring=00ffd1&fire=00ffd1&currStreakLabel=00ffd1&sideNums=ffffff&sideLabels=00ffd1&dates=ffffff" width="100%" alt="GitHub Streak"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujallamichhane18&bg_color=0d1117&color=00ffd1&line=00ffd1&point=ffffff&area=true&hide_border=true&custom_title=Mission+Activity+Timeline" width="100%" alt="Activity Graph"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujallamichhane18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffd1&text_color=ffffff&custom_title=Weapon+Arsenal" width="45%" alt="Top Languages"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujallamichhane18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffd1&text_color=ffffff)](https://github.com/sujallamichhane18)
 
 </div>
 
 ---
 
-## 🎓 CREDENTIALS
+## 🎓 CREDENTIALS & CERTIFICATIONS
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║  🏆 CERTIFIED ETHICAL HACKER (CEH v13)                      ║
+║  🏆 CERTIFIED ETHICAL HACKER (CEH)                          ║
 ║     ├─ Issuing Authority: EC-Council                        ║
 ║     ├─ Status: ✅ Active & Current                          ║
 ║     └─ Domain: Offensive Security & Penetration Testing     ║
+║                                                              ║
+║  🌐 CISCO CERTIFIED CYBEROPS ASSOCIATE                      ║
+║     ├─ Issuing Authority: Cisco Networking Academy          ║
+║     ├─ Status: ✅ Active & Current                          ║
+║     └─ Domain: Security Operations & Threat Analysis        ║
 ║                                                              ║
 ║  🛡️ SECURITY OPERATIONS SPECIALIST                          ║
 ║     ├─ SOC Architecture & Management                        ║
@@ -273,10 +270,6 @@ Interests:
 <div align="center">
 
 ### 🔥 "Real hackers don't destroy systems — they reinforce them." 🔥
-
-<br>
-
-![GitHub Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 <br>
 
