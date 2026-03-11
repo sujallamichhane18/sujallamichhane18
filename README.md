@@ -1,272 +1,276 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=280&text=SUJAL%20LAMICHHANE&fontSize=55&fontAlign=50&fontAlignY=35&color=gradient&customColorList=6,11,20&desc=Cybersecurity%20Specialist%20%7C%20Ethical%20Hacker&descSize=16&descAlign=50&descAlignY=55)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=SUJAL%20LAMICHHANE&fontSize=60&fontAlign=50&fontAlignY=38&color=0:0d0221,50:00FFD1,100:0d0221&fontColor=00FFD1&desc=Cybersecurity%20Specialist%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20SOC%20Architect&descSize=15&descAlign=50&descAlignY=58&stroke=00FFD1&strokeWidth=1" width="100%" />
 
 </div>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> 
-  Welcome to My Cyber Domain
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Certified+Ethical+Hacker;CISCO+Certified+CyberOps+Associate;Security+Operations+Specialist;Penetration+Testing+Expert;Building+Secure+Systems" alt="Typing SVG" />
-</p>
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Website-00FFD1?style=for-the-badge&logoColor=black)](https://sujallamichhane.com.np)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-lamichhane/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infokaalbhairav@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujallamichhane18)
-
-<br>
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=sujallamichhane18&label=Profile%20Views&labelColor=%23000000&countColor=%2300ffd1&style=for-the-badge)
-[![Followers](https://img.shields.io/github/followers/sujallamichhane18?label=Followers&style=for-the-badge&color=00ffd1&labelColor=000000)](https://github.com/sujallamichhane18?tab=followers)
-
-</div>
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
-
-```python
-#!/usr/bin/env python3
-
-class CyberDefender:
-    def __init__(self):
-        self.name = "Sujal Lamichhane"
-        self.role = "Cybersecurity Specialist"
-        self.location = "Kathmandu, Nepal 🇳🇵"
-        self.certifications = [
-            "Certified Ethical Hacker (CEH)",
-            "CISCO Certified CyberOps Associate"
-        ]
-        
-    def get_skills(self):
-        return {
-            "Offensive": [
-                "Penetration Testing",
-                "Red Team Operations",
-                "Vulnerability Assessment",
-                "Exploit Development"
-            ],
-            "Defensive": [
-                "SOC Operations",
-                "SIEM/SOAR Implementation",
-                "Threat Hunting",
-                "Incident Response"
-            ],
-            "Tools": [
-                "Wazuh, Suricata, TheHive",
-                "Metasploit, Burp Suite, Nmap",
-                "Python, Bash, PowerShell"
-            ]
-        }
-    
-    def current_focus(self):
-        return "Building enterprise SOC frameworks"
-    
-    def life_motto(self):
-        return "Hack ethically. Defend relentlessly."
-
-defender = CyberDefender()
-print(f"{defender.name}: Ready for deployment! 🔐")
-```
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Arsenal
-
-<div align="center">
-
-### 🔴 Offensive Security
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square)
-
-### 🔵 Defensive & Monitoring
-
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logo=suricata&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=flat-square)
-![TheHive](https://img.shields.io/badge/TheHive-FFB300?style=flat-square)
-![OpenEDR](https://img.shields.io/badge/OpenEDR-000000?style=flat-square)
-
-### 💻 Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sujallamichhane18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffd1&icon_color=00ffd1&text_color=c9d1d9&rank_icon=github" width="100%" alt="GitHub Stats" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujallamichhane18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffd1&text_color=c9d1d9&langs_count=6" width="100%" alt="Top Languages" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sujallamichhane18&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" alt="Trophies" />
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Certifications
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/Certified_Ethical_Hacker-FF0000?style=for-the-badge&logo=hackaday&logoColor=white" />
-
-**EC-Council**
-
-🏆 Offensive Security & Penetration Testing
-
-Status: ✅ **Active**
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/CISCO_CyberOps_Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-
-**Cisco Networking Academy**
-
-🛡️ Security Operations & Threat Analysis
-
-Status: ✅ **Active**
-
-</td>
-</tr>
-</table>
-
-### 💼 Core Competencies
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/security-checked.png" width="48"/><br>
-<strong>Penetration Testing</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/monitor.png" width="48"/><br>
-<strong>SOC Operations</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/cyber-security.png" width="48"/><br>
-<strong>Threat Hunting</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="48"/><br>
-<strong>Security Automation</strong>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect!
-
-<div align="center">
-
-<a href="https://sujallamichhane.com.np">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00FFD1?style=for-the-badge" alt="Website" />
-</a>
-
-<a href="https://www.linkedin.com/in/sujal-lamichhane/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="mailto:infokaalbhairav@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<a href="https://sujallamichhane.com.np"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-sujallamichhane.com.np-00FFD1?style=for-the-badge&labelColor=0d0221" /></a>
+<a href="https://www.linkedin.com/in/sujal-lamichhane/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221" /></a>
+<a href="mailto:infokaalbhairav@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221" /></a>
+<a href="https://github.com/sujallamichhane18"><img src="https://img.shields.io/badge/GitHub-@sujallamichhane18-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221" /></a>
 
 <br><br>
 
-### 🤝 Open to Collaborate On
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=650&lines=%F0%9F%94%90+Certified+Ethical+Hacker+(CEH);%F0%9F%9B%A1%EF%B8%8F+CISCO+Certified+CyberOps+Associate;%F0%9F%8E%AF+Penetration+Testing+%26+Red+Team+Ops;%F0%9F%94%8D+Threat+Hunting+%26+SOC+Architecture;%E2%9A%A1+Building+Enterprise+Security+Frameworks" alt="Typing SVG" />
 
-```yaml
-Security Research: Vulnerability discovery & responsible disclosure
-CTF Competitions: Team-based security challenges
-Open Source: Security tools & automation projects
-Consulting: SOC design & penetration testing engagements
-Training: Security awareness & skill development
-```
+<br>
+
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=sujallamichhane18&label=Profile%20Views&labelColor=%230d0221&countColor=%2300ffd1&style=for-the-badge)
+[![GitHub Followers](https://img.shields.io/github/followers/sujallamichhane18?label=Followers&style=for-the-badge&color=00ffd1&labelColor=0d0221)](https://github.com/sujallamichhane18?tab=followers)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> Philosophy
+<img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="260" />
+
+## `> whoami`
+
+```yaml
+Name     : Sujal Lamichhane
+Role     : Cybersecurity Specialist
+Location : Kathmandu, Nepal 🇳🇵
+Focus    : Enterprise SOC Frameworks
+
+Certifications:
+  - Certified Ethical Hacker (CEH) ✅
+  - CISCO Certified CyberOps Associate ✅
+
+Specializations:
+  Offensive : Penetration Testing, Red Team Ops,
+              Vulnerability Assessment, Exploit Dev
+  Defensive : SOC Operations, SIEM/SOAR, 
+              Threat Hunting, Incident Response
+
+Philosophy : "Hack ethically. Defend relentlessly."
+Status     : Open to Collaborate 🟢
+```
+
+<br clear="right"/>
+
+---
+
+## `> cat skills.json`
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🔴 Offensive
+
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)](https://kali.org)
+[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)](https://metasploit.com)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)](https://portswigger.net)
+[![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)](https://nmap.org)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://wireshark.org)
+[![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat-square)](https://sqlmap.org)
+[![John the Ripper](https://img.shields.io/badge/John_The_Ripper-333?style=flat-square)](https://www.openwall.com/john)
+
+</td>
+<td align="center" width="33%">
+
+### 🔵 Defensive
+
+[![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white)](https://wazuh.com)
+[![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square)](https://suricata.io)
+[![TheHive](https://img.shields.io/badge/TheHive-FFB300?style=flat-square)](https://thehive-project.org)
+[![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=flat-square)](https://zabbix.com)
+[![OpenEDR](https://img.shields.io/badge/OpenEDR-1A1A2E?style=flat-square)](https://github.com/ComodoSecurity/openedr)
+[![Elastic SIEM](https://img.shields.io/badge/Elastic_SIEM-005571?style=flat-square&logo=elastic&logoColor=white)](https://elastic.co)
+[![MISP](https://img.shields.io/badge/MISP-2F4858?style=flat-square)](https://misp-project.org)
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ Development
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://gnu.org/software/bash)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://microsoft.com/powershell)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `> ls certifications/`
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<br>
+
+<img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-FF0000?style=for-the-badge&logo=hackaday&logoColor=white" />
+
+**Issued by: EC-Council**
+
+> Offensive Security · Penetration Testing  
+> Exploit Development · Social Engineering
+
+**`STATUS: ✅ ACTIVE`**
+
+<br>
+
+</td>
+<td align="center" width="50%">
+
+<br>
+
+<img src="https://img.shields.io/badge/CISCO-CyberOps_Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+**Issued by: Cisco Networking Academy**
+
+> Security Operations · Threat Analysis  
+> Network Defense · Log Monitoring
+
+**`STATUS: ✅ ACTIVE`**
+
+<br>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `> ./github_stats.sh`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sujallamichhane18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffd1&icon_color=00ffd1&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujallamichhane18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffd1&text_color=c9d1d9&langs_count=8" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sujallamichhane18&theme=radical&hide_border=true&background=0D1117&stroke=00FFD1&ring=00FFD1&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFD1&sideLabels=00FFD1&dates=808080" width="60%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=sujallamichhane18&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" />
+
+</div>
+
+---
+
+## `> cat activity.log`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujallamichhane18&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&area=true&area_color=00FFD130&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## `> cat collaborate.md`
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤝 Open to Work On
+
+```yaml
+🔬 Security Research:
+   Vulnerability discovery & 
+   responsible disclosure
+
+🏁 CTF Competitions:
+   Team-based security challenges
+   (HackTheBox, TryHackMe, PicoCTF)
+
+🛠️ Open Source:
+   Security tools, automation
+   scripts & detection rules
+
+💼 Consulting:
+   SOC design, architecture review
+   & penetration testing
+
+📚 Training:
+   Security awareness programs
+   & skill development workshops
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Find Me On
+
+<br>
+
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-141D2B?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://hackthebox.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-sujallamichhane.com.np-00FFD1?style=for-the-badge&labelColor=0d0221)](https://sujallamichhane.com.np)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-lamichhane/)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infokaalbhairav@gmail.com)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `> cat ethics.conf`
 
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║     "In the digital battlefield, I am both the sword         ║
-║      and the shield — attacking to defend."                  ║
-║                                                               ║
-║   🔐 Every vulnerability found → A system secured            ║
-║   🛡️ Every threat detected → An attack prevented             ║
-║   📚 Every skill learned → A better defender                 ║
-║                                                               ║
-║        HACK ETHICALLY • DEFEND FIERCELY • LEARN CONSTANTLY   ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   "In the digital battlefield, I am both the sword and the shield   ║
+║    — I attack to understand, and understand to defend."              ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <br>
-
-### ⚠️ Ethical Commitment
 
 <table>
 <tr>
 <td width="50%">
 
 ```diff
-+ ✅ All testing with written authorization
-+ ✅ Responsible vulnerability disclosure
-+ ✅ Educational & defensive purposes
-+ ✅ Compliance with laws & regulations
+# AUTHORIZED ACTIVITIES
++ All testing conducted with written consent
++ Responsible vulnerability disclosure
++ Educational & defensive research only
++ Full compliance with local/international law
++ Coordinated disclosure before public release
 ```
 
 </td>
 <td width="50%">
 
 ```diff
-- ❌ No unauthorized system access
-- ❌ No malicious activities
-- ❌ No exploitation for personal gain
-- ❌ No illegal operations
+# NEVER
+- Unauthorized system access
+- Malicious or destructive activities  
+- Exploitation for personal/financial gain
+- Illegal operations of any kind
+- Disclosing exploits without vendor patch
 ```
 
 </td>
@@ -275,28 +279,34 @@ Training: Security awareness & skill development
 
 <br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+only+truly+secure+system+is+one+that+is+powered+off&author=Gene+Spafford" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+best+defense+is+understanding+the+offense&author=Unknown%20Security%20Practitioner" />
 
 </div>
 
 ---
 
 <div align="center">
-
-### 🔥 Remember: Real hackers don't break systems — they make them unbreakable! 🔥
-
-<br>
 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
 
+<br><br>
+
+```
+██████╗ ███████╗███████╗███████╗███╗   ██╗██████╗     ████████╗██╗  ██╗███████╗
+██╔══██╗██╔════╝██╔════╝██╔════╝████╗  ██║██╔══██╗    ╚══██╔══╝██║  ██║██╔════╝
+██║  ██║█████╗  █████╗  █████╗  ██╔██╗ ██║██║  ██║       ██║   ███████║█████╗  
+██║  ██║██╔══╝  ██╔══╝  ██╔══╝  ██║╚██╗██║██║  ██║       ██║   ██╔══██║██╔══╝  
+██████╔╝███████╗██║     ███████╗██║ ╚████║██████╔╝       ██║   ██║  ██║███████╗
+╚═════╝ ╚══════╝╚═╝     ╚══════╝╚═╝  ╚═══╝╚═════╝        ╚═╝   ╚═╝  ╚═╝╚══════╝
+                              D I G I T A L   R E A L M
+```
+
+**© 2026 Sujal Lamichhane · Kathmandu, Nepal 🇳🇵 · Defending the Digital Realm**
+
 <br>
 
-**© 2026 Sujal Lamichhane | Defending the Digital Realm**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:00FFD1,100:0d0221&height=120&section=footer" width="100%" />
 
 </div>
