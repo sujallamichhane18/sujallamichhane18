@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=SUJAL%20LAMICHHANE&fontSize=60&fontAlign=50&fontAlignY=40&color=0:000000,50:0d0d2b,100:000000&fontColor=00ffcc&stroke=00ffcc&strokeWidth=1&desc=Cybersecurity%20Specialist%20%7C%20Ethical%20Hacker%20%7C%20SOC%20Engineer&descSize=15&descAlign=50&descAlignY=60&descFontColor=aaaaaa&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=SUJAL%20LAMICHHANE&fontSize=60&fontAlign=50&fontAlignY=40&color=0:000000,50:0d0d2b,100:000000&fontColor=00ffcc&stroke=00ffcc&strokeWidth=1&desc=Cybersecurity%20Specialist%20%7C%20Ethical%20Hacker%20%7C%20Red%20Team%20Operator&descSize=15&descAlign=50&descAlignY=60&descFontColor=aaaaaa&animation=fadeIn" width="100%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=false&width=650&lines=%F0%9F%94%90+Certified+Ethical+Hacker+%7C+EC-Council;%F0%9F%9B%A1%EF%B8%8F+CISCO+CyberOps+Associate;%F0%9F%8E%AF+Penetration+Tester+%7C+Red+Team+Operator;%F0%9F%94%8D+Threat+Hunter+%7C+SOC+Engineer;%F0%9F%90%8D+Python+%7C+Bash+%7C+PowerShell+Developer;%E2%9A%94%EF%B8%8F+Hack+Ethically.+Defend+Relentlessly." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=false&width=650&lines=%F0%9F%94%90+Certified+Ethical+Hacker+%7C+EC-Council;%F0%9F%9B%A1%EF%B8%8F+CISCO+CyberOps+Associate;%F0%9F%8E%AF+Penetration+Tester+%7C+Red+Team+Operator;%F0%9F%92%80+Exploit+Developer+%7C+Vulnerability+Researcher;%F0%9F%90%8D+Python+%7C+Bash+%7C+PowerShell+Developer;%E2%9A%94%EF%B8%8F+Hack+Ethically.+Defend+Relentlessly." alt="Typing SVG" />
 
 </div>
 
@@ -28,7 +28,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230" />
 
 ## `whoami`
 
@@ -40,7 +40,7 @@
   Role       : Cybersecurity Specialist
   Location   : Kathmandu, Nepal 🇳🇵
   Certs      : CEH | CyberOps Associate
-  Focus      : Enterprise SOC Frameworks
+  Focus      : Exploit Dev & Red Team Operations
   Motto      : Hack ethically. Defend relentlessly.
   Status     : [ ACTIVE — Ready for deployment ]
 ```
@@ -127,16 +127,16 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujallamichhane18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujallamichhane18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffcc&text_color=c9d1d9&langs_count=6" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=sujallamichhane18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&rank_icon=github&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujallamichhane18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffcc&text_color=c9d1d9&langs_count=6" height="170" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sujallamichhane18&theme=radical&hide_border=true&background=0D1117&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" height="165" />
+<img src="https://streak-stats.demolab.com?user=sujallamichhane18&theme=radical&hide_border=true&background=0D1117&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc&dates=888888" height="170" />
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sujallamichhane18&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=sujallamichhane18&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=8" width="95%" />
 
 <br>
 
@@ -158,7 +158,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" />
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="60" />
 
 <br><br>
 
@@ -167,7 +167,7 @@
 | 🔬 Security Research | Vulnerability discovery & responsible disclosure |
 | 🚩 CTF Competitions | Team-based offensive/defensive challenges |
 | 🔧 Open Source | Security automation & tooling |
-| 🏢 Consulting | SOC design & penetration testing engagements |
+| 💀 Consulting | Penetration testing & red team engagements |
 | 📚 Training | Security awareness & hands-on skill development |
 
 </div>
@@ -176,21 +176,21 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" />
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60" />
 
 <br>
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   "In the digital battlefield, I am both the sword           ║
-║    and the shield — attacking to defend."                    ║
+║   "In the digital battlefield, I am both the sword          ║
+║    and the shield — attacking to defend."                   ║
 ║                                                              ║
-║   🔐 Every vulnerability found  →  A system secured          ║
-║   🛡️  Every threat detected     →  An attack prevented       ║
-║   📚 Every skill learned        →  A better defender         ║
+║   🔐 Every vulnerability found  →  A system secured         ║
+║   🛡️  Every threat detected     →  An attack prevented      ║
+║   📚 Every skill learned        →  A better defender        ║
 ║                                                              ║
-║         HACK ETHICALLY  ·  DEFEND FIERCELY  ·  LEARN         ║
+║         HACK ETHICALLY  ·  DEFEND FIERCELY  ·  LEARN        ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
