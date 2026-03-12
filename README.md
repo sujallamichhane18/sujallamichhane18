@@ -100,26 +100,62 @@
 <tr>
 <td align="center" width="50%">
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="80" />
+<br>
 
-### Certified Ethical Hacker
-![CEH](https://img.shields.io/badge/CEH-EC--Council-FF0000?style=for-the-badge&logo=hackaday&logoColor=white)
+![CEH Badge](https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-FF0000?style=flat-square&logoColor=white)
 
-*Offensive Security · Penetration Testing · Exploit Dev*
+```
+╔══════════════════════════════╗
+║  🔴  EC-COUNCIL  CERTIFIED   ║
+╚══════════════════════════════╝
+```
 
-`✅ Active`
+### 🎯 Certified Ethical Hacker
+### `CEH v12`
+
+![EC-Council](https://img.shields.io/badge/Issued%20by-EC--Council-FF0000?style=for-the-badge&logo=hackaday&logoColor=white)
+
+<br>
+
+![Pentest](https://img.shields.io/badge/Penetration%20Testing-00ffcc?style=flat-square&logoColor=black)
+![Exploit Dev](https://img.shields.io/badge/Exploit%20Development-00ffcc?style=flat-square&logoColor=black)
+![Red Team](https://img.shields.io/badge/Red%20Team%20Ops-00ffcc?style=flat-square&logoColor=black)
+
+<br>
+
+![Status](https://img.shields.io/badge/STATUS-✅%20ACTIVE-00cc44?style=for-the-badge&logoColor=white)
+
+<br>
 
 </td>
 <td align="center" width="50%">
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80" />
+<br>
 
-### CyberOps Associate
-![CyberOps](https://img.shields.io/badge/CyberOps-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco Badge](https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-1BA0D7?style=flat-square&logoColor=white)
 
-*SOC Operations · Threat Analysis · SIEM/SOAR*
+```
+╔══════════════════════════════╗
+║    🔵   CISCO  CERTIFIED     ║
+╚══════════════════════════════╝
+```
 
-`✅ Active`
+### 🛡️ CyberOps Associate
+### `CBROPS 200-201`
+
+![Cisco](https://img.shields.io/badge/Issued%20by-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+<br>
+
+![SOC](https://img.shields.io/badge/SOC%20Operations-00ffcc?style=flat-square&logoColor=black)
+![Threat Analysis](https://img.shields.io/badge/Threat%20Analysis-00ffcc?style=flat-square&logoColor=black)
+![SIEM](https://img.shields.io/badge/SIEM%20%2F%20SOAR-00ffcc?style=flat-square&logoColor=black)
+
+<br>
+
+![Status](https://img.shields.io/badge/STATUS-✅%20ACTIVE-00cc44?style=for-the-badge&logoColor=white)
+
+<br>
 
 </td>
 </tr>
@@ -141,10 +177,6 @@
 <br>
 
 <img src="https://streak-stats.demolab.com/?user=sujallamichhane18&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00ffcc&fire=ff4500&currStreakLabel=00ffcc&sideLabels=aaaaaa&dates=888888&stroke=0D1117" height="170" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sujallamichhane18&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=8" width="95%" />
 
 <br>
 
