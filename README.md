@@ -127,12 +127,12 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujallamichhane18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&rank_icon=github&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujallamichhane18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffcc&text_color=c9d1d9&langs_count=6" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=sujallamichhane18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&rank_icon=github&count_private=true&include_all_commits=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujallamichhane18&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffcc&text_color=c9d1d9&langs_count=6" height="170" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=sujallamichhane18&theme=radical&hide_border=true&background=0D1117&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc&sideLabels=00ffcc&dates=888888" height="170" />
+<img src="https://streak-stats.demolab.com/?user=sujallamichhane18&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00ffcc&fire=ff4500&currStreakLabel=00ffcc&sideLabels=aaaaaa&dates=888888&stroke=0D1117" height="170" />
 
 <br>
 
@@ -154,21 +154,9 @@
 
 ---
 
-## 🤝 Open to Collaborate
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="60" />
-
-<br><br>
-
-| Domain | Type |
-|:---|:---|
-| 🔬 Security Research | Vulnerability discovery & responsible disclosure |
-| 🚩 CTF Competitions | Team-based offensive/defensive challenges |
-| 🔧 Open Source | Security automation & tooling |
-| 💀 Consulting | Penetration testing & red team engagements |
-| 📚 Training | Security awareness & hands-on skill development |
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" />
 
 </div>
 
