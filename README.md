@@ -132,7 +132,7 @@
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=sujallamichhane18&theme=radical&hide_border=true&background=0D1117&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc&dates=888888" height="170" />
+<img src="https://streak-stats.demolab.com/?user=sujallamichhane18&theme=radical&hide_border=true&background=0D1117&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc&sideLabels=00ffcc&dates=888888" height="170" />
 
 <br>
 
@@ -176,29 +176,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60" />
-
 <br>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "In the digital battlefield, I am both the sword          ║
-║    and the shield — attacking to defend."                   ║
-║                                                              ║
-║   🔐 Every vulnerability found  →  A system secured         ║
-║   🛡️  Every threat detected     →  An attack prevented      ║
-║   📚 Every skill learned        →  A better defender        ║
-║                                                              ║
-║         HACK ETHICALLY  ·  DEFEND FIERCELY  ·  LEARN        ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+only+truly+secure+system+is+one+that+is+powered+off&author=Gene+Spafford" />
-
-<br><br>
 
 **© 2026 Sujal Lamichhane — Defending the Digital Realm**
 
