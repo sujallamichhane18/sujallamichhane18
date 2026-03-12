@@ -98,68 +98,89 @@
 
 <table>
 <tr>
+
 <td align="center" width="50%">
+<br>
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FF0000?style=for-the-badge" />
+
+<h2>🎯 Certified Ethical Hacker</h2>
+
+<img src="https://img.shields.io/badge/EC--COUNCIL-FF0000?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=1a0000" height="35"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CEH-v12-FF4444?style=for-the-badge&logoColor=white&labelColor=000" height="35"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🔴%20CREDENTIAL-VERIFIED-FF0000?style=flat-square&labelColor=1a0000" />
+
+<br><br>
+
+| Domain | Level |
+|:---|:---:|
+| 🔓 Penetration Testing | `Expert` |
+| 💣 Exploit Development | `Advanced` |
+| 🎭 Red Team Operations | `Advanced` |
+| 🕵️ Social Engineering | `Proficient` |
+| 🌐 Web App Hacking | `Expert` |
 
 <br>
 
-![CEH Badge](https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-FF0000?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/─────────────────────────────-FF0000?style=flat-square" />
 
-```
-╔══════════════════════════════╗
-║  🔴  EC-COUNCIL  CERTIFIED   ║
-╚══════════════════════════════╝
-```
+<br><br>
 
-### 🎯 Certified Ethical Hacker
-### `CEH v12`
+<img src="https://img.shields.io/badge/STATUS-✅%20%20ACTIVE%20%20%26%20%20VERIFIED-00cc44?style=for-the-badge&labelColor=001a00" height="30" />
 
-![EC-Council](https://img.shields.io/badge/Issued%20by-EC--Council-FF0000?style=for-the-badge&logo=hackaday&logoColor=white)
-
-<br>
-
-![Pentest](https://img.shields.io/badge/Penetration%20Testing-00ffcc?style=flat-square&logoColor=black)
-![Exploit Dev](https://img.shields.io/badge/Exploit%20Development-00ffcc?style=flat-square&logoColor=black)
-![Red Team](https://img.shields.io/badge/Red%20Team%20Ops-00ffcc?style=flat-square&logoColor=black)
-
-<br>
-
-![Status](https://img.shields.io/badge/STATUS-✅%20ACTIVE-00cc44?style=for-the-badge&logoColor=white)
-
-<br>
-
+<br><br>
 </td>
+
 <td align="center" width="50%">
+<br>
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-1BA0D7?style=for-the-badge" />
+
+<h2>🛡️ CyberOps Associate</h2>
+
+<img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=00101a" height="35"/>
+&nbsp;
+<img src="https://img.shields.io/badge/200--201-CBROPS-44aaff?style=for-the-badge&logoColor=white&labelColor=000" height="35"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🔵%20CREDENTIAL-VERIFIED-1BA0D7?style=flat-square&labelColor=00101a" />
+
+<br><br>
+
+| Domain | Level |
+|:---|:---:|
+| 🖥️ SOC Operations | `Expert` |
+| 🔍 Threat Analysis | `Advanced` |
+| 📊 SIEM / SOAR | `Advanced` |
+| 🚨 Incident Response | `Proficient` |
+| 🔬 Forensic Analysis | `Proficient` |
 
 <br>
 
-![Cisco Badge](https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-1BA0D7?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/─────────────────────────────-1BA0D7?style=flat-square" />
 
-```
-╔══════════════════════════════╗
-║    🔵   CISCO  CERTIFIED     ║
-╚══════════════════════════════╝
-```
+<br><br>
 
-### 🛡️ CyberOps Associate
-### `CBROPS 200-201`
+<img src="https://img.shields.io/badge/STATUS-✅%20%20ACTIVE%20%20%26%20%20VERIFIED-00cc44?style=for-the-badge&labelColor=001a00" height="30" />
 
-![Cisco](https://img.shields.io/badge/Issued%20by-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-<br>
-
-![SOC](https://img.shields.io/badge/SOC%20Operations-00ffcc?style=flat-square&logoColor=black)
-![Threat Analysis](https://img.shields.io/badge/Threat%20Analysis-00ffcc?style=flat-square&logoColor=black)
-![SIEM](https://img.shields.io/badge/SIEM%20%2F%20SOAR-00ffcc?style=flat-square&logoColor=black)
-
-<br>
-
-![Status](https://img.shields.io/badge/STATUS-✅%20ACTIVE-00cc44?style=for-the-badge&logoColor=white)
-
-<br>
-
+<br><br>
 </td>
+
 </tr>
 </table>
+
+<br>
+
+<img src="https://img.shields.io/badge/🔐%20Total%20Certifications-2%20Active-00ffcc?style=for-the-badge&labelColor=0d0d2b" height="32"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🏛️%20Issuing%20Bodies-EC--Council%20%7C%20Cisco-aaaaaa?style=for-the-badge&labelColor=0d0d2b" height="32"/>
+
+<br><br>
 
 </div>
 
