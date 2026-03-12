@@ -36,8 +36,6 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230" />
-
 ## `whoami`
 
 ```bash
@@ -53,7 +51,9 @@
   Status     : [ ACTIVE — Ready for deployment ]
 ```
 
-<br clear="right"/>
+<div align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230" />
+</div>
 
 ---
 
@@ -136,15 +136,6 @@
 <br>
 
 <img src="https://streak-stats.demolab.com/?user=sujallamichhane18&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00ffcc&fire=ff4500&currStreakLabel=00ffcc&sideLabels=aaaaaa&dates=888888&stroke=0D1117" height="170" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujallamichhane18&theme=radical" width="95%" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujallamichhane18&theme=radical" height="170" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujallamichhane18&theme=radical" height="170" />
 
 <br>
 
