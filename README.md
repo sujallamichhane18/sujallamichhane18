@@ -246,35 +246,6 @@ Training: Security awareness & skill development
 
 <br>
 
-### ⚠️ Ethical Commitment
-
-<table>
-<tr>
-<td width="50%">
-
-```diff
-+ ✅ All testing with written authorization
-+ ✅ Responsible vulnerability disclosure
-+ ✅ Educational & defensive purposes
-+ ✅ Compliance with laws & regulations
-```
-
-</td>
-<td width="50%">
-
-```diff
-- ❌ No unauthorized system access
-- ❌ No malicious activities
-- ❌ No exploitation for personal gain
-- ❌ No illegal operations
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+only+truly+secure+system+is+one+that+is+powered+off&author=Gene+Spafford" />
 
 </div>
@@ -283,7 +254,7 @@ Training: Security awareness & skill development
 
 <div align="center">
 
-### 🔥 Remember: Real hackers don't break systems — they make them unbreakable! 🔥
+### 🔥 Real hackers don't break systems — they make them unbreakable. 🔥
 
 <br>
 
