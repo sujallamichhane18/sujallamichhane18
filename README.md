@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=350&text=SUJAL%20LAMICHHANE&fontSize=70&fontAlign=50&fontAlignY=45&color=0:000000,30:0a0a1a,60:000d1a,100:000000&fontColor=00ffcc&stroke=00ffcc&strokeWidth=2&desc=%3E_%20Cybersecurity%20Specialist%20%7C%20Ethical%20Hacker%20%7C%20Red%20Team%20Operator&descSize=16&descAlign=50&descAlignY=65&descFontColor=667788&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=SUJAL%20LAMICHHANE&fontSize=60&fontAlign=50&fontAlignY=40&color=0:000000,50:0d0d2b,100:000000&fontColor=00ffcc&stroke=00ffcc&strokeWidth=1&desc=Cybersecurity%20Specialist%20%7C%20Ethical%20Hacker%20%7C%20Red%20Team%20Operator&descSize=15&descAlign=50&descAlignY=60&descFontColor=aaaaaa&animation=fadeIn" width="100%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&width=700&lines=%5BROOT%40kali+~%5D%23+whoami;%E2%96%BA+Certified+Ethical+Hacker+%7C+EC-Council;%E2%96%BA+CISCO+CyberOps+Associate;%E2%96%BA+Penetration+Tester+%7C+Red+Team+Operator;%E2%96%BA+Exploit+Developer+%7C+Vuln+Researcher;%E2%96%BA+Kathmandu%2C+Nepal+%F0%9F%87%B3%F0%9F%87%B5;%5BROOT%40kali+~%5D%23+_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=false&width=650&lines=%F0%9F%94%90+Certified+Ethical+Hacker+%7C+EC-Council;%F0%9F%9B%A1%EF%B8%8F+CISCO+CyberOps+Associate;%F0%9F%8E%AF+Penetration+Tester+%7C+Red+Team+Operator;%F0%9F%92%80+Exploit+Developer+%7C+Vulnerability+Researcher;%F0%9F%90%8D+Python+%7C+Bash+%7C+PowerShell+Developer;%E2%9A%94%EF%B8%8F+Hack+Ethically.+Defend+Relentlessly." alt="Typing SVG" />
 
 </div>
 
@@ -14,111 +14,105 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-%F0%9F%8C%90%20PORTFOLIO-00ffcc?style=for-the-badge&logoColor=000000&labelColor=000000&color=00ffcc)](https://sujallamichhane.com.np)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/sujal-lamichhane/)
-[![GitHub](https://img.shields.io/badge/-GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=000&labelColor=ffffff)](https://github.com/sujallamichhane18)
-[![Email](https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:infokaalbhairav@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐%20PORTFOLIO-00FFCC?style=for-the-badge&logoColor=black&labelColor=000)](https://sujallamichhane.com.np)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/sujal-lamichhane/)
+[![GitHub](https://img.shields.io/badge/GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=000)](https://github.com/sujallamichhane18)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000)](mailto:infokaalbhairav@gmail.com)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sujallamichhane18&style=for-the-badge&color=00ffcc&label=PROFILE+VIEWS&abbreviated=true)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=sujallamichhane18&label=PROFILE+VIEWS&labelColor=%23000000&countColor=%2300ffcc&style=for-the-badge)
 [![Followers](https://img.shields.io/github/followers/sujallamichhane18?label=FOLLOWERS&style=for-the-badge&color=00ffcc&labelColor=000000)](https://github.com/sujallamichhane18?tab=followers)
 
 </div>
 
-<br>
-
 ---
 
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260" />
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230" />
 
-## `[ROOT@kali ~]# cat whoami.txt`
+## `whoami`
 
 ```bash
-╔══════════════════════════════════════════════════╗
-║  ┌──(sujal㉿cyberops)-[~]                       ║
-║  └─$ cat /etc/profile                            ║
-║                                                  ║
-║  Name     ::  Sujal Lamichhane                   ║
-║  Role     ::  Cybersecurity Specialist           ║
-║  Base     ::  Kathmandu, Nepal  🇳🇵               ║
-║  Certs    ::  CEH  |  CyberOps Associate         ║
-║  Focus    ::  Exploit Dev  &  Red Team Ops       ║
-║  Langs    ::  Python  |  Bash  |  PowerShell     ║
-║  Motto    ::  Hack ethically. Defend fiercely.   ║
-║  Status   ::  ██████████  [ACTIVE]  🟢            ║
-╚══════════════════════════════════════════════════╝
+┌──(sujal㉿cyberops)-[~]
+└─$ cat profile.txt
+
+  Name       : Sujal Lamichhane
+  Role       : Cybersecurity Specialist
+  Location   : Kathmandu, Nepal 🇳🇵
+  Certs      : CEH | CyberOps Associate
+  Focus      : Exploit Dev & Red Team Operations
+  Motto      : Hack ethically. Defend relentlessly.
+  Status     : [ ACTIVE — Ready for deployment ]
 ```
 
 <br clear="right"/>
 
 ---
 
-## `[ROOT@kali ~]# ls /arsenal`
+## ⚔️ Offensive Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,python,bash,powershell,docker,git,vim,vscode&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,docker&theme=dark" />
 
 <br><br>
 
-### 🔴 Offensive
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-1793D1?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-black?style=for-the-badge&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-222222?style=for-the-badge&logoColor=white)
-![John](https://img.shields.io/badge/John_The_Ripper-ff0000?style=for-the-badge&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-2d2d2d?style=for-the-badge&logoColor=00ffcc)
-![Gobuster](https://img.shields.io/badge/Gobuster-00875A?style=for-the-badge&logoColor=white)
 
-### 🔵 Defensive
+</div>
+
+## 🛡️ Defensive Stack
+
+<div align="center">
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white)
 ![TheHive](https://img.shields.io/badge/TheHive-FFB300?style=for-the-badge&logoColor=black)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logoColor=white)
-![OpenEDR](https://img.shields.io/badge/OpenEDR-111111?style=for-the-badge&logoColor=00ffcc)
+![OpenEDR](https://img.shields.io/badge/OpenEDR-111111?style=for-the-badge&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
 </div>
 
 ---
 
-## `[ROOT@kali ~]# cat /certs/active`
+## 🏆 Certifications
 
-<div align="center"><br>
+<div align="center">
+
+<br>
 
 <table>
 <tr>
 <td align="center" width="50%">
-<br>
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="90" />
-<br><br>
 
-### 💀 Certified Ethical Hacker
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="80" />
+
+### Certified Ethical Hacker
 ![CEH](https://img.shields.io/badge/CEH-EC--Council-FF0000?style=for-the-badge&logo=hackaday&logoColor=white)
 
-`Offensive Sec · Pentest · Exploit Dev`
+*Offensive Security · Penetration Testing · Exploit Dev*
 
-**`✅ ACTIVE`**
-<br>
+`✅ Active`
+
 </td>
 <td align="center" width="50%">
-<br>
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="90" />
-<br><br>
 
-### 🛡️ CyberOps Associate
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80" />
+
+### CyberOps Associate
 ![CyberOps](https://img.shields.io/badge/CyberOps-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-`Threat Analysis · Detection · Response`
+*SOC Operations · Threat Analysis · SIEM/SOAR*
 
-**`✅ ACTIVE`**
-<br>
+`✅ Active`
+
 </td>
 </tr>
 </table>
@@ -127,42 +121,30 @@
 
 ---
 
-## `[ROOT@kali ~]# neofetch --stats`
-
-<div align="center"><br>
-
-<a href="https://github.com/sujallamichhane18">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujallamichhane18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffcc&icon_color=ff4500&text_color=c9d1d9&rank_icon=github&count_private=true&include_all_commits=true&border_radius=10" height="175" />
-</a>
-<a href="https://github.com/sujallamichhane18">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujallamichhane18&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffcc&text_color=c9d1d9&langs_count=6&border_radius=10" height="175" />
-</a>
-
-<br>
-
-<a href="https://github.com/sujallamichhane18">
-  <img src="https://streak-stats.demolab.com/?user=sujallamichhane18&theme=dark&hide_border=true&background=0D1117&ring=00ffcc&fire=ff4500&currStreakLabel=00ffcc&sideLabels=aaaaaa&dates=666666&border_radius=10&stroke=333333" height="175" />
-</a>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sujallamichhane18&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" width="95%" />
-
-</div>
-
----
-
-## `[ROOT@kali ~]# git log --graph --all`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujallamichhane18&theme=react-dark&bg_color=0D1117&color=00ffcc&line=00ffcc&point=ff4500&area=true&hide_border=true&area_color=00ffcc" width="100%" />
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sujallamichhane18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&rank_icon=github&count_private=true&include_all_commits=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujallamichhane18&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffcc&text_color=c9d1d9&langs_count=6" height="170" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=sujallamichhane18&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00ffcc&fire=ff4500&currStreakLabel=00ffcc&sideLabels=aaaaaa&dates=888888&stroke=0D1117" height="170" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sujallamichhane18&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=8" width="95%" />
+
+<br>
 
 </div>
 
 ---
 
-## `[ROOT@kali ~]# ./snake.sh`
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -174,20 +156,18 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" />
 
-<br><br>
+</div>
 
-```
-> "In the digital battlefield, I am both the sword and the shield."
-```
+---
 
-<br>
-
-**`© 2026 SUJAL LAMICHHANE — ROOT ACCESS GRANTED 🔐`**
+<div align="center">
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:000d1a,100:000000&height=120&section=footer&stroke=00ffcc&strokeWidth=1" width="100%" />
+**© 2026 Sujal Lamichhane — Defending the Digital Realm**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d2b,100:000000&height=100&section=footer&fontColor=00ffcc" width="100%" />
 
 </div>
