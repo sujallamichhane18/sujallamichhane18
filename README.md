@@ -28,7 +28,13 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230" />
+<div align="center">
+
+> ### *"In the digital battlefield, I am both the sword and the shield."*
+
+</div>
+
+---
 
 ## `whoami`
 
@@ -45,7 +51,9 @@
   Status     : [ ACTIVE — Ready for deployment ]
 ```
 
-<br clear="right"/>
+<div align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230" />
+</div>
 
 ---
 
@@ -155,9 +163,7 @@
 ---
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" />
-
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" />
 </div>
 
 ---
