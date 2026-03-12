@@ -28,13 +28,7 @@
 
 ---
 
-<div align="center">
-
-> ### *"In the digital battlefield, I am both the sword and the shield."*
-
-</div>
-
----
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230" />
 
 ## `whoami`
 
@@ -51,9 +45,7 @@
   Status     : [ ACTIVE — Ready for deployment ]
 ```
 
-<div align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230" />
-</div>
+<br clear="right"/>
 
 ---
 
@@ -132,6 +124,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sujallamichhane18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&rank_icon=github&count_private=true&include_all_commits=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujallamichhane18&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffcc&text_color=c9d1d9&langs_count=6" height="170" />
 
 <br>
 
