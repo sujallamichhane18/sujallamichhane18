@@ -28,6 +28,14 @@
 
 ---
 
+<div align="center">
+
+> ### *"In the digital battlefield, I am both the sword and the shield."*
+
+</div>
+
+---
+
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230" />
 
 ## `whoami`
@@ -127,12 +135,16 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujallamichhane18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&rank_icon=github&count_private=true&include_all_commits=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujallamichhane18&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffcc&text_color=c9d1d9&langs_count=6" height="170" />
+<img src="https://streak-stats.demolab.com/?user=sujallamichhane18&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00ffcc&fire=ff4500&currStreakLabel=00ffcc&sideLabels=aaaaaa&dates=888888&stroke=0D1117" height="170" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=sujallamichhane18&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00ffcc&fire=ff4500&currStreakLabel=00ffcc&sideLabels=aaaaaa&dates=888888&stroke=0D1117" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujallamichhane18&theme=radical" width="95%" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujallamichhane18&theme=radical" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujallamichhane18&theme=radical" height="170" />
 
 <br>
 
